@@ -1,0 +1,2502 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SwipeRefreshLayout: void setOnRefreshListener(android.support.v4.widget.SwipeRefreshLayout$OnRefreshListener)
+android.support.v4.widget.SwipeRefreshLayout: void setTriggerPercentage(float)
+android.support.v4.widget.SwipeRefreshLayout: void setRefreshing(boolean)
+android.support.v4.widget.SwipeRefreshLayout: void setTargetOffsetTopAndBottom(int)
+android.support.v7.app.ActionBarActivity: void setContentView(android.view.View)
+android.support.v7.appcompat.R$anim: int abc_fade_in
+android.support.v7.appcompat.R$anim: int abc_fade_out
+android.support.v7.appcompat.R$anim: int abc_slide_in_bottom
+android.support.v7.appcompat.R$anim: int abc_slide_in_top
+android.support.v7.appcompat.R$anim: int abc_slide_out_bottom
+android.support.v7.appcompat.R$anim: int abc_slide_out_top
+android.support.v7.appcompat.R$attr: int actionBarDivider
+android.support.v7.appcompat.R$attr: int actionBarItemBackground
+android.support.v7.appcompat.R$attr: int actionBarSize
+android.support.v7.appcompat.R$attr: int actionBarSplitStyle
+android.support.v7.appcompat.R$attr: int actionBarStyle
+android.support.v7.appcompat.R$attr: int actionBarTabBarStyle
+android.support.v7.appcompat.R$attr: int actionBarTabStyle
+android.support.v7.appcompat.R$attr: int actionBarTabTextStyle
+android.support.v7.appcompat.R$attr: int actionBarWidgetTheme
+android.support.v7.appcompat.R$attr: int actionButtonStyle
+android.support.v7.appcompat.R$attr: int actionDropDownStyle
+android.support.v7.appcompat.R$attr: int actionLayout
+android.support.v7.appcompat.R$attr: int actionMenuTextAppearance
+android.support.v7.appcompat.R$attr: int actionMenuTextColor
+android.support.v7.appcompat.R$attr: int actionModeBackground
+android.support.v7.appcompat.R$attr: int actionModeCloseButtonStyle
+android.support.v7.appcompat.R$attr: int actionModeCloseDrawable
+android.support.v7.appcompat.R$attr: int actionModeCopyDrawable
+android.support.v7.appcompat.R$attr: int actionModeCutDrawable
+android.support.v7.appcompat.R$attr: int actionModeFindDrawable
+android.support.v7.appcompat.R$attr: int actionModePasteDrawable
+android.support.v7.appcompat.R$attr: int actionModePopupWindowStyle
+android.support.v7.appcompat.R$attr: int actionModeSelectAllDrawable
+android.support.v7.appcompat.R$attr: int actionModeShareDrawable
+android.support.v7.appcompat.R$attr: int actionModeSplitBackground
+android.support.v7.appcompat.R$attr: int actionModeStyle
+android.support.v7.appcompat.R$attr: int actionModeWebSearchDrawable
+android.support.v7.appcompat.R$attr: int actionOverflowButtonStyle
+android.support.v7.appcompat.R$attr: int actionProviderClass
+android.support.v7.appcompat.R$attr: int actionViewClass
+android.support.v7.appcompat.R$attr: int activityChooserViewStyle
+android.support.v7.appcompat.R$attr: int background
+android.support.v7.appcompat.R$attr: int backgroundSplit
+android.support.v7.appcompat.R$attr: int backgroundStacked
+android.support.v7.appcompat.R$attr: int buttonBarButtonStyle
+android.support.v7.appcompat.R$attr: int buttonBarStyle
+android.support.v7.appcompat.R$attr: int customNavigationLayout
+android.support.v7.appcompat.R$attr: int disableChildrenWhenDisabled
+android.support.v7.appcompat.R$attr: int displayOptions
+android.support.v7.appcompat.R$attr: int divider
+android.support.v7.appcompat.R$attr: int dividerHorizontal
+android.support.v7.appcompat.R$attr: int dividerPadding
+android.support.v7.appcompat.R$attr: int dividerVertical
+android.support.v7.appcompat.R$attr: int dropDownListViewStyle
+android.support.v7.appcompat.R$attr: int dropdownListPreferredItemHeight
+android.support.v7.appcompat.R$attr: int expandActivityOverflowButtonDrawable
+android.support.v7.appcompat.R$attr: int height
+android.support.v7.appcompat.R$attr: int homeAsUpIndicator
+android.support.v7.appcompat.R$attr: int homeLayout
+android.support.v7.appcompat.R$attr: int icon
+android.support.v7.appcompat.R$attr: int iconifiedByDefault
+android.support.v7.appcompat.R$attr: int indeterminateProgressStyle
+android.support.v7.appcompat.R$attr: int initialActivityCount
+android.support.v7.appcompat.R$attr: int isLightTheme
+android.support.v7.appcompat.R$attr: int itemPadding
+android.support.v7.appcompat.R$attr: int listChoiceBackgroundIndicator
+android.support.v7.appcompat.R$attr: int listPopupWindowStyle
+android.support.v7.appcompat.R$attr: int listPreferredItemHeight
+android.support.v7.appcompat.R$attr: int listPreferredItemHeightLarge
+android.support.v7.appcompat.R$attr: int listPreferredItemHeightSmall
+android.support.v7.appcompat.R$attr: int listPreferredItemPaddingLeft
+android.support.v7.appcompat.R$attr: int listPreferredItemPaddingRight
+android.support.v7.appcompat.R$attr: int logo
+android.support.v7.appcompat.R$attr: int navigationMode
+android.support.v7.appcompat.R$attr: int paddingEnd
+android.support.v7.appcompat.R$attr: int paddingStart
+android.support.v7.appcompat.R$attr: int panelMenuListTheme
+android.support.v7.appcompat.R$attr: int panelMenuListWidth
+android.support.v7.appcompat.R$attr: int popupMenuStyle
+android.support.v7.appcompat.R$attr: int popupPromptView
+android.support.v7.appcompat.R$attr: int progressBarPadding
+android.support.v7.appcompat.R$attr: int progressBarStyle
+android.support.v7.appcompat.R$attr: int prompt
+android.support.v7.appcompat.R$attr: int queryHint
+android.support.v7.appcompat.R$attr: int searchDropdownBackground
+android.support.v7.appcompat.R$attr: int searchResultListItemHeight
+android.support.v7.appcompat.R$attr: int searchViewAutoCompleteTextView
+android.support.v7.appcompat.R$attr: int searchViewCloseIcon
+android.support.v7.appcompat.R$attr: int searchViewEditQuery
+android.support.v7.appcompat.R$attr: int searchViewEditQueryBackground
+android.support.v7.appcompat.R$attr: int searchViewGoIcon
+android.support.v7.appcompat.R$attr: int searchViewSearchIcon
+android.support.v7.appcompat.R$attr: int searchViewTextField
+android.support.v7.appcompat.R$attr: int searchViewTextFieldRight
+android.support.v7.appcompat.R$attr: int searchViewVoiceIcon
+android.support.v7.appcompat.R$attr: int selectableItemBackground
+android.support.v7.appcompat.R$attr: int showAsAction
+android.support.v7.appcompat.R$attr: int showDividers
+android.support.v7.appcompat.R$attr: int spinnerDropDownItemStyle
+android.support.v7.appcompat.R$attr: int spinnerMode
+android.support.v7.appcompat.R$attr: int spinnerStyle
+android.support.v7.appcompat.R$attr: int subtitle
+android.support.v7.appcompat.R$attr: int subtitleTextStyle
+android.support.v7.appcompat.R$attr: int textAllCaps
+android.support.v7.appcompat.R$attr: int textAppearanceLargePopupMenu
+android.support.v7.appcompat.R$attr: int textAppearanceListItem
+android.support.v7.appcompat.R$attr: int textAppearanceListItemSmall
+android.support.v7.appcompat.R$attr: int textAppearanceSearchResultSubtitle
+android.support.v7.appcompat.R$attr: int textAppearanceSearchResultTitle
+android.support.v7.appcompat.R$attr: int textAppearanceSmallPopupMenu
+android.support.v7.appcompat.R$attr: int textColorSearchUrl
+android.support.v7.appcompat.R$attr: int title
+android.support.v7.appcompat.R$attr: int titleTextStyle
+android.support.v7.appcompat.R$attr: int windowActionBar
+android.support.v7.appcompat.R$attr: int windowActionBarOverlay
+android.support.v7.appcompat.R$attr: int windowFixedHeightMajor
+android.support.v7.appcompat.R$attr: int windowFixedHeightMinor
+android.support.v7.appcompat.R$attr: int windowFixedWidthMajor
+android.support.v7.appcompat.R$attr: int windowFixedWidthMinor
+android.support.v7.appcompat.R$attr: int windowSplitActionBar
+android.support.v7.appcompat.R$bool: int abc_action_bar_embed_tabs_pre_jb
+android.support.v7.appcompat.R$bool: int abc_action_bar_expanded_action_views_exclusive
+android.support.v7.appcompat.R$bool: int abc_config_actionMenuItemAllCaps
+android.support.v7.appcompat.R$bool: int abc_config_allowActionMenuItemTextWithIcon
+android.support.v7.appcompat.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
+android.support.v7.appcompat.R$bool: int abc_split_action_bar_is_narrow
+android.support.v7.appcompat.R$color: int abc_search_url_text_holo
+android.support.v7.appcompat.R$color: int abc_search_url_text_normal
+android.support.v7.appcompat.R$color: int abc_search_url_text_pressed
+android.support.v7.appcompat.R$color: int abc_search_url_text_selected
+android.support.v7.appcompat.R$dimen: int abc_action_bar_default_height
+android.support.v7.appcompat.R$dimen: int abc_action_bar_icon_vertical_padding
+android.support.v7.appcompat.R$dimen: int abc_action_bar_progress_bar_size
+android.support.v7.appcompat.R$dimen: int abc_action_bar_stacked_max_height
+android.support.v7.appcompat.R$dimen: int abc_action_bar_stacked_tab_max_width
+android.support.v7.appcompat.R$dimen: int abc_action_bar_subtitle_bottom_margin
+android.support.v7.appcompat.R$dimen: int abc_action_bar_subtitle_text_size
+android.support.v7.appcompat.R$dimen: int abc_action_bar_subtitle_top_margin
+android.support.v7.appcompat.R$dimen: int abc_action_bar_title_text_size
+android.support.v7.appcompat.R$dimen: int abc_action_button_min_width
+android.support.v7.appcompat.R$dimen: int abc_config_prefDialogWidth
+android.support.v7.appcompat.R$dimen: int abc_dropdownitem_icon_width
+android.support.v7.appcompat.R$dimen: int abc_dropdownitem_text_padding_left
+android.support.v7.appcompat.R$dimen: int abc_dropdownitem_text_padding_right
+android.support.v7.appcompat.R$dimen: int abc_panel_menu_list_width
+android.support.v7.appcompat.R$dimen: int abc_search_view_preferred_width
+android.support.v7.appcompat.R$dimen: int abc_search_view_text_min_width
+android.support.v7.appcompat.R$dimen: int dialog_fixed_height_major
+android.support.v7.appcompat.R$dimen: int dialog_fixed_height_minor
+android.support.v7.appcompat.R$dimen: int dialog_fixed_width_major
+android.support.v7.appcompat.R$dimen: int dialog_fixed_width_minor
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_solid_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_solid_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_transparent_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_transparent_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_share_pack_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ab_share_pack_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ab_solid_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_solid_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_solid_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_solid_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_transparent_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_transparent_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_transparent_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_transparent_light_holo
+android.support.v7.appcompat.R$drawable: int abc_cab_background_bottom_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_cab_background_bottom_holo_light
+android.support.v7.appcompat.R$drawable: int abc_cab_background_top_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_cab_background_top_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_ab_back_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_ab_back_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_cab_done_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_cab_done_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_clear
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_disabled
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_normal
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_search_api_disabled_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_commit_search_api_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_commit_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_go
+android.support.v7.appcompat.R$drawable: int abc_ic_go_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_share_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_share_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_search
+android.support.v7.appcompat.R$drawable: int abc_ic_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_voice_search
+android.support.v7.appcompat.R$drawable: int abc_ic_voice_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_item_background_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_item_background_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_divider_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_divider_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_focused_holo
+android.support.v7.appcompat.R$drawable: int abc_list_longpressed_holo
+android.support.v7.appcompat.R$drawable: int abc_list_pressed_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_pressed_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_selector_background_transition_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_selector_background_transition_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_selector_disabled_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_selector_disabled_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_selector_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_selector_holo_light
+android.support.v7.appcompat.R$drawable: int abc_menu_dropdown_panel_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_menu_dropdown_panel_holo_light
+android.support.v7.appcompat.R$drawable: int abc_menu_hardkey_panel_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_menu_hardkey_panel_holo_light
+android.support.v7.appcompat.R$drawable: int abc_search_dropdown_dark
+android.support.v7.appcompat.R$drawable: int abc_search_dropdown_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_default_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_default_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_disabled_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_disabled_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_focused_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_focused_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_pressed_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_pressed_holo_light
+android.support.v7.appcompat.R$drawable: int abc_tab_indicator_ab_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_selected_focused_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_selected_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_selected_pressed_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_unselected_pressed_holo
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_default_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_default_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_default_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_default_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_selected_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_selected_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_selected_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_selected_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_right_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_right_holo_light
+android.support.v7.appcompat.R$id: int action_bar
+android.support.v7.appcompat.R$id: int action_bar_activity_content
+android.support.v7.appcompat.R$id: int action_bar_container
+android.support.v7.appcompat.R$id: int action_bar_overlay_layout
+android.support.v7.appcompat.R$id: int action_bar_root
+android.support.v7.appcompat.R$id: int action_bar_subtitle
+android.support.v7.appcompat.R$id: int action_bar_title
+android.support.v7.appcompat.R$id: int action_context_bar
+android.support.v7.appcompat.R$id: int action_menu_divider
+android.support.v7.appcompat.R$id: int action_menu_presenter
+android.support.v7.appcompat.R$id: int action_mode_close_button
+android.support.v7.appcompat.R$id: int activity_chooser_view_content
+android.support.v7.appcompat.R$id: int always
+android.support.v7.appcompat.R$id: int beginning
+android.support.v7.appcompat.R$id: int checkbox
+android.support.v7.appcompat.R$id: int collapseActionView
+android.support.v7.appcompat.R$id: int default_activity_button
+android.support.v7.appcompat.R$id: int dialog
+android.support.v7.appcompat.R$id: int disableHome
+android.support.v7.appcompat.R$id: int dropdown
+android.support.v7.appcompat.R$id: int edit_query
+android.support.v7.appcompat.R$id: int end
+android.support.v7.appcompat.R$id: int expand_activities_button
+android.support.v7.appcompat.R$id: int expanded_menu
+android.support.v7.appcompat.R$id: int home
+android.support.v7.appcompat.R$id: int homeAsUp
+android.support.v7.appcompat.R$id: int icon
+android.support.v7.appcompat.R$id: int ifRoom
+android.support.v7.appcompat.R$id: int image
+android.support.v7.appcompat.R$id: int listMode
+android.support.v7.appcompat.R$id: int list_item
+android.support.v7.appcompat.R$id: int middle
+android.support.v7.appcompat.R$id: int never
+android.support.v7.appcompat.R$id: int none
+android.support.v7.appcompat.R$id: int normal
+android.support.v7.appcompat.R$id: int progress_circular
+android.support.v7.appcompat.R$id: int progress_horizontal
+android.support.v7.appcompat.R$id: int radio
+android.support.v7.appcompat.R$id: int search_badge
+android.support.v7.appcompat.R$id: int search_bar
+android.support.v7.appcompat.R$id: int search_button
+android.support.v7.appcompat.R$id: int search_close_btn
+android.support.v7.appcompat.R$id: int search_edit_frame
+android.support.v7.appcompat.R$id: int search_go_btn
+android.support.v7.appcompat.R$id: int search_mag_icon
+android.support.v7.appcompat.R$id: int search_plate
+android.support.v7.appcompat.R$id: int search_src_text
+android.support.v7.appcompat.R$id: int search_voice_btn
+android.support.v7.appcompat.R$id: int shortcut
+android.support.v7.appcompat.R$id: int showCustom
+android.support.v7.appcompat.R$id: int showHome
+android.support.v7.appcompat.R$id: int showTitle
+android.support.v7.appcompat.R$id: int split_action_bar
+android.support.v7.appcompat.R$id: int submit_area
+android.support.v7.appcompat.R$id: int tabMode
+android.support.v7.appcompat.R$id: int title
+android.support.v7.appcompat.R$id: int top_action_bar
+android.support.v7.appcompat.R$id: int up
+android.support.v7.appcompat.R$id: int useLogo
+android.support.v7.appcompat.R$id: int withText
+android.support.v7.appcompat.R$integer: int abc_max_action_buttons
+android.support.v7.appcompat.R$layout: int abc_action_bar_decor
+android.support.v7.appcompat.R$layout: int abc_action_bar_decor_include
+android.support.v7.appcompat.R$layout: int abc_action_bar_decor_overlay
+android.support.v7.appcompat.R$layout: int abc_action_bar_home
+android.support.v7.appcompat.R$layout: int abc_action_bar_tab
+android.support.v7.appcompat.R$layout: int abc_action_bar_tabbar
+android.support.v7.appcompat.R$layout: int abc_action_bar_title_item
+android.support.v7.appcompat.R$layout: int abc_action_bar_view_list_nav_layout
+android.support.v7.appcompat.R$layout: int abc_action_menu_item_layout
+android.support.v7.appcompat.R$layout: int abc_action_menu_layout
+android.support.v7.appcompat.R$layout: int abc_action_mode_bar
+android.support.v7.appcompat.R$layout: int abc_action_mode_close_item
+android.support.v7.appcompat.R$layout: int abc_activity_chooser_view
+android.support.v7.appcompat.R$layout: int abc_activity_chooser_view_include
+android.support.v7.appcompat.R$layout: int abc_activity_chooser_view_list_item
+android.support.v7.appcompat.R$layout: int abc_expanded_menu_layout
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_checkbox
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_icon
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_layout
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_radio
+android.support.v7.appcompat.R$layout: int abc_popup_menu_item_layout
+android.support.v7.appcompat.R$layout: int abc_search_dropdown_item_icons_2line
+android.support.v7.appcompat.R$layout: int abc_search_view
+android.support.v7.appcompat.R$layout: int abc_simple_decor
+android.support.v7.appcompat.R$layout: int support_simple_spinner_dropdown_item
+android.support.v7.appcompat.R$string: int abc_action_bar_home_description
+android.support.v7.appcompat.R$string: int abc_action_bar_up_description
+android.support.v7.appcompat.R$string: int abc_action_menu_overflow_description
+android.support.v7.appcompat.R$string: int abc_action_mode_done
+android.support.v7.appcompat.R$string: int abc_activity_chooser_view_see_all
+android.support.v7.appcompat.R$string: int abc_activitychooserview_choose_application
+android.support.v7.appcompat.R$string: int abc_searchview_description_clear
+android.support.v7.appcompat.R$string: int abc_searchview_description_query
+android.support.v7.appcompat.R$string: int abc_searchview_description_search
+android.support.v7.appcompat.R$string: int abc_searchview_description_submit
+android.support.v7.appcompat.R$string: int abc_searchview_description_voice
+android.support.v7.appcompat.R$string: int abc_shareactionprovider_share_with
+android.support.v7.appcompat.R$string: int abc_shareactionprovider_share_with_application
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_CompactMenu_Dialog
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_SearchResult
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Menu
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Menu
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_DropDownItem
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_DropDownItem
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_Widget_AppCompat_Base_ExpandedMenu_Item
+android.support.v7.appcompat.R$style: int TextAppearance_Widget_AppCompat_ExpandedMenu_Item
+android.support.v7.appcompat.R$style: int Theme_AppCompat
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Base_CompactMenu
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Base_CompactMenu_Dialog
+android.support.v7.appcompat.R$style: int Theme_AppCompat_CompactMenu
+android.support.v7.appcompat.R$style: int Theme_AppCompat_CompactMenu_Dialog
+android.support.v7.appcompat.R$style: int Theme_AppCompat_DialogWhenLarge
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Light
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Light_DarkActionBar
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Light_DialogWhenLarge
+android.support.v7.appcompat.R$style: int Theme_Base
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_DialogWhenLarge
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_DialogWhenLarge_Base
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Dialog_FixedSize
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Dialog_Light_FixedSize
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Light
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Light_DarkActionBar
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Light_DialogWhenLarge
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Light_DialogWhenLarge_Base
+android.support.v7.appcompat.R$style: int Theme_Base_Light
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ListView_Menu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ProgressBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ProgressBar_Horizontal
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_Solid_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabBar_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabText_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabView_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionMode_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionMode_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Spinner_DropDown_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ListView_Menu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ProgressBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ProgressBar_Horizontal
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Spinner_DropDown_ActionBar
+android.support.v7.appcompat.R$styleable: int[] ActionBar
+android.support.v7.appcompat.R$styleable: int[] ActionBarLayout
+android.support.v7.appcompat.R$styleable: int ActionBarLayout_android_layout_gravity
+android.support.v7.appcompat.R$styleable: int[] ActionBarWindow
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowActionBar
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowActionBarOverlay
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowFixedHeightMajor
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowFixedHeightMinor
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowFixedWidthMajor
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowFixedWidthMinor
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowSplitActionBar
+android.support.v7.appcompat.R$styleable: int ActionBar_background
+android.support.v7.appcompat.R$styleable: int ActionBar_backgroundSplit
+android.support.v7.appcompat.R$styleable: int ActionBar_backgroundStacked
+android.support.v7.appcompat.R$styleable: int ActionBar_customNavigationLayout
+android.support.v7.appcompat.R$styleable: int ActionBar_displayOptions
+android.support.v7.appcompat.R$styleable: int ActionBar_divider
+android.support.v7.appcompat.R$styleable: int ActionBar_height
+android.support.v7.appcompat.R$styleable: int ActionBar_homeLayout
+android.support.v7.appcompat.R$styleable: int ActionBar_icon
+android.support.v7.appcompat.R$styleable: int ActionBar_indeterminateProgressStyle
+android.support.v7.appcompat.R$styleable: int ActionBar_itemPadding
+android.support.v7.appcompat.R$styleable: int ActionBar_logo
+android.support.v7.appcompat.R$styleable: int ActionBar_navigationMode
+android.support.v7.appcompat.R$styleable: int ActionBar_progressBarPadding
+android.support.v7.appcompat.R$styleable: int ActionBar_progressBarStyle
+android.support.v7.appcompat.R$styleable: int ActionBar_subtitle
+android.support.v7.appcompat.R$styleable: int ActionBar_subtitleTextStyle
+android.support.v7.appcompat.R$styleable: int ActionBar_title
+android.support.v7.appcompat.R$styleable: int ActionBar_titleTextStyle
+android.support.v7.appcompat.R$styleable: int[] ActionMenuItemView
+android.support.v7.appcompat.R$styleable: int ActionMenuItemView_android_minWidth
+android.support.v7.appcompat.R$styleable: int[] ActionMenuView
+android.support.v7.appcompat.R$styleable: int[] ActionMode
+android.support.v7.appcompat.R$styleable: int ActionMode_background
+android.support.v7.appcompat.R$styleable: int ActionMode_backgroundSplit
+android.support.v7.appcompat.R$styleable: int ActionMode_height
+android.support.v7.appcompat.R$styleable: int ActionMode_subtitleTextStyle
+android.support.v7.appcompat.R$styleable: int ActionMode_titleTextStyle
+android.support.v7.appcompat.R$styleable: int[] ActivityChooserView
+android.support.v7.appcompat.R$styleable: int ActivityChooserView_expandActivityOverflowButtonDrawable
+android.support.v7.appcompat.R$styleable: int ActivityChooserView_initialActivityCount
+android.support.v7.appcompat.R$styleable: int[] CompatTextView
+android.support.v7.appcompat.R$styleable: int CompatTextView_textAllCaps
+android.support.v7.appcompat.R$styleable: int[] LinearLayoutICS
+android.support.v7.appcompat.R$styleable: int LinearLayoutICS_divider
+android.support.v7.appcompat.R$styleable: int LinearLayoutICS_dividerPadding
+android.support.v7.appcompat.R$styleable: int LinearLayoutICS_showDividers
+android.support.v7.appcompat.R$styleable: int[] MenuGroup
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_checkableBehavior
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_enabled
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_id
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_menuCategory
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_orderInCategory
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_visible
+android.support.v7.appcompat.R$styleable: int[] MenuItem
+android.support.v7.appcompat.R$styleable: int MenuItem_actionLayout
+android.support.v7.appcompat.R$styleable: int MenuItem_actionProviderClass
+android.support.v7.appcompat.R$styleable: int MenuItem_actionViewClass
+android.support.v7.appcompat.R$styleable: int MenuItem_android_alphabeticShortcut
+android.support.v7.appcompat.R$styleable: int MenuItem_android_checkable
+android.support.v7.appcompat.R$styleable: int MenuItem_android_checked
+android.support.v7.appcompat.R$styleable: int MenuItem_android_enabled
+android.support.v7.appcompat.R$styleable: int MenuItem_android_icon
+android.support.v7.appcompat.R$styleable: int MenuItem_android_id
+android.support.v7.appcompat.R$styleable: int MenuItem_android_menuCategory
+android.support.v7.appcompat.R$styleable: int MenuItem_android_numericShortcut
+android.support.v7.appcompat.R$styleable: int MenuItem_android_onClick
+android.support.v7.appcompat.R$styleable: int MenuItem_android_orderInCategory
+android.support.v7.appcompat.R$styleable: int MenuItem_android_title
+android.support.v7.appcompat.R$styleable: int MenuItem_android_titleCondensed
+android.support.v7.appcompat.R$styleable: int MenuItem_android_visible
+android.support.v7.appcompat.R$styleable: int MenuItem_showAsAction
+android.support.v7.appcompat.R$styleable: int[] MenuView
+android.support.v7.appcompat.R$styleable: int MenuView_android_headerBackground
+android.support.v7.appcompat.R$styleable: int MenuView_android_horizontalDivider
+android.support.v7.appcompat.R$styleable: int MenuView_android_itemBackground
+android.support.v7.appcompat.R$styleable: int MenuView_android_itemIconDisabledAlpha
+android.support.v7.appcompat.R$styleable: int MenuView_android_itemTextAppearance
+android.support.v7.appcompat.R$styleable: int MenuView_android_preserveIconSpacing
+android.support.v7.appcompat.R$styleable: int MenuView_android_verticalDivider
+android.support.v7.appcompat.R$styleable: int MenuView_android_windowAnimationStyle
+android.support.v7.appcompat.R$styleable: int[] SearchView
+android.support.v7.appcompat.R$styleable: int SearchView_android_imeOptions
+android.support.v7.appcompat.R$styleable: int SearchView_android_inputType
+android.support.v7.appcompat.R$styleable: int SearchView_android_maxWidth
+android.support.v7.appcompat.R$styleable: int SearchView_iconifiedByDefault
+android.support.v7.appcompat.R$styleable: int SearchView_queryHint
+android.support.v7.appcompat.R$styleable: int[] Spinner
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownHorizontalOffset
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownSelector
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownVerticalOffset
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownWidth
+android.support.v7.appcompat.R$styleable: int Spinner_android_gravity
+android.support.v7.appcompat.R$styleable: int Spinner_android_popupBackground
+android.support.v7.appcompat.R$styleable: int Spinner_disableChildrenWhenDisabled
+android.support.v7.appcompat.R$styleable: int Spinner_popupPromptView
+android.support.v7.appcompat.R$styleable: int Spinner_prompt
+android.support.v7.appcompat.R$styleable: int Spinner_spinnerMode
+android.support.v7.appcompat.R$styleable: int[] Theme
+android.support.v7.appcompat.R$styleable: int Theme_actionDropDownStyle
+android.support.v7.appcompat.R$styleable: int Theme_dropdownListPreferredItemHeight
+android.support.v7.appcompat.R$styleable: int Theme_listChoiceBackgroundIndicator
+android.support.v7.appcompat.R$styleable: int Theme_panelMenuListTheme
+android.support.v7.appcompat.R$styleable: int Theme_panelMenuListWidth
+android.support.v7.appcompat.R$styleable: int Theme_popupMenuStyle
+android.support.v7.appcompat.R$styleable: int[] View
+android.support.v7.appcompat.R$styleable: int View_android_focusable
+android.support.v7.appcompat.R$styleable: int View_paddingEnd
+android.support.v7.appcompat.R$styleable: int View_paddingStart
+android.support.v7.internal.view.menu.ActionMenuItemView
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context)
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.view.menu.ActionMenuItemView: android.support.v7.internal.view.menu.MenuItemImpl getItemData()
+android.support.v7.internal.view.menu.ActionMenuItemView: void setItemInvoker(android.support.v7.internal.view.menu.MenuBuilder$ItemInvoker)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setCheckable(boolean)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setChecked(boolean)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setExpandedFormat(boolean)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.view.menu.ActionMenuPresenter$SavedState
+android.support.v7.internal.view.menu.ActionMenuPresenter$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.view.menu.ActionMenuView
+android.support.v7.internal.view.menu.ActionMenuView: ActionMenuView(android.content.Context)
+android.support.v7.internal.view.menu.ActionMenuView: ActionMenuView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ActionMenuView: void setPresenter(android.support.v7.internal.view.menu.ActionMenuPresenter)
+android.support.v7.internal.view.menu.ActionMenuView: void setOverflowReserved(boolean)
+android.support.v7.internal.view.menu.ActionMenuView: int getWindowAnimations()
+android.support.v7.internal.view.menu.ExpandedMenuView
+android.support.v7.internal.view.menu.ExpandedMenuView: ExpandedMenuView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ExpandedMenuView: int getWindowAnimations()
+android.support.v7.internal.view.menu.ListMenuItemView
+android.support.v7.internal.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ListMenuItemView: void setForceShowIcon(boolean)
+android.support.v7.internal.view.menu.ListMenuItemView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.view.menu.ListMenuItemView: android.support.v7.internal.view.menu.MenuItemImpl getItemData()
+android.support.v7.internal.view.menu.ListMenuItemView: void setCheckable(boolean)
+android.support.v7.internal.view.menu.ListMenuItemView: void setChecked(boolean)
+android.support.v7.internal.view.menu.ListMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+android.support.v7.internal.view.menu.ListMenuItemView: android.view.LayoutInflater getInflater()
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context)
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.AbsActionBarView: void setSplitActionBar(boolean)
+android.support.v7.internal.widget.AbsActionBarView: void setSplitWhenNarrow(boolean)
+android.support.v7.internal.widget.AbsActionBarView: void setContentHeight(int)
+android.support.v7.internal.widget.AbsActionBarView: int getContentHeight()
+android.support.v7.internal.widget.AbsActionBarView: void setSplitView(android.support.v7.internal.widget.ActionBarContainer)
+android.support.v7.internal.widget.AbsActionBarView: int getAnimatedVisibility()
+android.support.v7.internal.widget.AbsActionBarView: void setVisibility(int)
+android.support.v7.internal.widget.AbsSpinnerICS$SavedState
+android.support.v7.internal.widget.AbsSpinnerICS$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ActionBarContainer
+android.support.v7.internal.widget.ActionBarContainer: ActionBarContainer(android.content.Context)
+android.support.v7.internal.widget.ActionBarContainer: ActionBarContainer(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarContainer: void setPrimaryBackground(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarContainer: void setStackedBackground(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarContainer: void setSplitBackground(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarContainer: void setVisibility(int)
+android.support.v7.internal.widget.ActionBarContainer: void setTransitioning(boolean)
+android.support.v7.internal.widget.ActionBarContainer: void setTabContainer(android.support.v7.internal.widget.ScrollingTabContainerView)
+android.support.v7.internal.widget.ActionBarContainer: android.view.View getTabContainer()
+android.support.v7.internal.widget.ActionBarContextView
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context)
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.ActionBarContextView: void setSplitActionBar(boolean)
+android.support.v7.internal.widget.ActionBarContextView: void setContentHeight(int)
+android.support.v7.internal.widget.ActionBarContextView: void setCustomView(android.view.View)
+android.support.v7.internal.widget.ActionBarContextView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarContextView: void setSubtitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarContextView: java.lang.CharSequence getTitle()
+android.support.v7.internal.widget.ActionBarContextView: java.lang.CharSequence getSubtitle()
+android.support.v7.internal.widget.ActionBarContextView: void setTitleOptional(boolean)
+android.support.v7.internal.widget.ActionBarContextView: void setVisibility(int)
+android.support.v7.internal.widget.ActionBarContextView: int getAnimatedVisibility()
+android.support.v7.internal.widget.ActionBarContextView: void setSplitView(android.support.v7.internal.widget.ActionBarContainer)
+android.support.v7.internal.widget.ActionBarContextView: int getContentHeight()
+android.support.v7.internal.widget.ActionBarContextView: void setSplitWhenNarrow(boolean)
+android.support.v7.internal.widget.ActionBarOverlayLayout
+android.support.v7.internal.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context)
+android.support.v7.internal.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarOverlayLayout: void setActionBar(android.support.v7.app.ActionBar)
+android.support.v7.internal.widget.ActionBarView
+android.support.v7.internal.widget.ActionBarView: ActionBarView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarView: void setWindowCallback(android.view.Window$Callback)
+android.support.v7.internal.widget.ActionBarView: void setSplitActionBar(boolean)
+android.support.v7.internal.widget.ActionBarView: void setEmbeddedTabView(android.support.v7.internal.widget.ScrollingTabContainerView)
+android.support.v7.internal.widget.ActionBarView: void setCallback(android.support.v7.app.ActionBar$OnNavigationListener)
+android.support.v7.internal.widget.ActionBarView: void setCustomNavigationView(android.view.View)
+android.support.v7.internal.widget.ActionBarView: java.lang.CharSequence getTitle()
+android.support.v7.internal.widget.ActionBarView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: void setWindowTitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: void setTitleImpl(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: java.lang.CharSequence getSubtitle()
+android.support.v7.internal.widget.ActionBarView: void setSubtitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: void setHomeButtonEnabled(boolean)
+android.support.v7.internal.widget.ActionBarView: void setDisplayOptions(int)
+android.support.v7.internal.widget.ActionBarView: void setIcon(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarView: void setIcon(int)
+android.support.v7.internal.widget.ActionBarView: void setLogo(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarView: void setLogo(int)
+android.support.v7.internal.widget.ActionBarView: void setNavigationMode(int)
+android.support.v7.internal.widget.ActionBarView: void setDropdownAdapter(android.widget.SpinnerAdapter)
+android.support.v7.internal.widget.ActionBarView: android.widget.SpinnerAdapter getDropdownAdapter()
+android.support.v7.internal.widget.ActionBarView: void setDropdownSelectedPosition(int)
+android.support.v7.internal.widget.ActionBarView: int getDropdownSelectedPosition()
+android.support.v7.internal.widget.ActionBarView: android.view.View getCustomNavigationView()
+android.support.v7.internal.widget.ActionBarView: int getNavigationMode()
+android.support.v7.internal.widget.ActionBarView: int getDisplayOptions()
+android.support.v7.internal.widget.ActionBarView: void setContextView(android.support.v7.internal.widget.ActionBarContextView)
+android.support.v7.internal.widget.ActionBarView: void setCollapsable(boolean)
+android.support.v7.internal.widget.ActionBarView: void setHomeAsUpIndicator(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarView: void setHomeAsUpIndicator(int)
+android.support.v7.internal.widget.ActionBarView: void setVisibility(int)
+android.support.v7.internal.widget.ActionBarView: int getAnimatedVisibility()
+android.support.v7.internal.widget.ActionBarView: void setSplitView(android.support.v7.internal.widget.ActionBarContainer)
+android.support.v7.internal.widget.ActionBarView: int getContentHeight()
+android.support.v7.internal.widget.ActionBarView: void setContentHeight(int)
+android.support.v7.internal.widget.ActionBarView: void setSplitWhenNarrow(boolean)
+android.support.v7.internal.widget.ActionBarView$HomeView
+android.support.v7.internal.widget.ActionBarView$HomeView: ActionBarView$HomeView(android.content.Context)
+android.support.v7.internal.widget.ActionBarView$HomeView: ActionBarView$HomeView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarView$SavedState
+android.support.v7.internal.widget.ActionBarView$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ActivityChooserView: void setActivityChooserModel(android.support.v7.internal.widget.ActivityChooserModel)
+android.support.v7.internal.widget.ActivityChooserView: void setExpandActivityOverflowButtonDrawable(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActivityChooserView: void setExpandActivityOverflowButtonContentDescription(int)
+android.support.v7.internal.widget.ActivityChooserView: void setProvider(android.support.v4.view.ActionProvider)
+android.support.v7.internal.widget.ActivityChooserView: android.support.v7.internal.widget.ActivityChooserModel getDataModel()
+android.support.v7.internal.widget.ActivityChooserView: void setOnDismissListener(android.widget.PopupWindow$OnDismissListener)
+android.support.v7.internal.widget.ActivityChooserView: void setInitialActivityCount(int)
+android.support.v7.internal.widget.ActivityChooserView: void setDefaultActionButtonContentDescription(int)
+android.support.v7.internal.widget.ActivityChooserView: android.support.v7.internal.widget.ListPopupWindow getListPopupWindow()
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context)
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.LinearLayoutICS
+android.support.v7.internal.widget.LinearLayoutICS: LinearLayoutICS(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.LinearLayoutICS: int getSupportDividerWidth()
+android.support.v7.internal.widget.NativeActionModeAwareLayout
+android.support.v7.internal.widget.NativeActionModeAwareLayout: NativeActionModeAwareLayout(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.NativeActionModeAwareLayout: void setActionModeForChildListener(android.support.v7.internal.widget.NativeActionModeAwareLayout$OnActionModeForChildListener)
+android.support.v7.internal.widget.ProgressBarICS: android.graphics.drawable.shapes.Shape getDrawableShape()
+android.support.v7.internal.widget.ProgressBarICS: void setIndeterminate(boolean)
+android.support.v7.internal.widget.ProgressBarICS: android.graphics.drawable.Drawable getIndeterminateDrawable()
+android.support.v7.internal.widget.ProgressBarICS: void setIndeterminateDrawable(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ProgressBarICS: android.graphics.drawable.Drawable getProgressDrawable()
+android.support.v7.internal.widget.ProgressBarICS: void setProgressDrawable(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ProgressBarICS: void setProgress(int)
+android.support.v7.internal.widget.ProgressBarICS: void setSecondaryProgress(int)
+android.support.v7.internal.widget.ProgressBarICS: int getProgress()
+android.support.v7.internal.widget.ProgressBarICS: int getSecondaryProgress()
+android.support.v7.internal.widget.ProgressBarICS: int getMax()
+android.support.v7.internal.widget.ProgressBarICS: void setMax(int)
+android.support.v7.internal.widget.ProgressBarICS: void setInterpolator(android.view.animation.Interpolator)
+android.support.v7.internal.widget.ProgressBarICS: android.view.animation.Interpolator getInterpolator()
+android.support.v7.internal.widget.ProgressBarICS: void setVisibility(int)
+android.support.v7.internal.widget.ProgressBarICS$SavedState
+android.support.v7.internal.widget.ProgressBarICS$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ScrollingTabContainerView: void setAllowCollapse(boolean)
+android.support.v7.internal.widget.ScrollingTabContainerView: void setTabSelected(int)
+android.support.v7.internal.widget.ScrollingTabContainerView: void setContentHeight(int)
+android.support.v7.internal.widget.ScrollingTabContainerView$TabView
+android.support.v7.internal.widget.ScrollingTabContainerView$TabView: ScrollingTabContainerView$TabView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ScrollingTabContainerView$TabView: android.support.v7.app.ActionBar$Tab getTab()
+android.support.v7.widget.SearchView: void setSearchableInfo(android.app.SearchableInfo)
+android.support.v7.widget.SearchView: void setAppSearchData(android.os.Bundle)
+android.support.v7.widget.SearchView: void setImeOptions(int)
+android.support.v7.widget.SearchView: int getImeOptions()
+android.support.v7.widget.SearchView: void setInputType(int)
+android.support.v7.widget.SearchView: int getInputType()
+android.support.v7.widget.SearchView: void setOnQueryTextListener(android.support.v7.widget.SearchView$OnQueryTextListener)
+android.support.v7.widget.SearchView: void setOnCloseListener(android.support.v7.widget.SearchView$OnCloseListener)
+android.support.v7.widget.SearchView: void setOnQueryTextFocusChangeListener(android.view.View$OnFocusChangeListener)
+android.support.v7.widget.SearchView: void setOnSuggestionListener(android.support.v7.widget.SearchView$OnSuggestionListener)
+android.support.v7.widget.SearchView: void setOnSearchClickListener(android.view.View$OnClickListener)
+android.support.v7.widget.SearchView: java.lang.CharSequence getQuery()
+android.support.v7.widget.SearchView: void setQueryHint(java.lang.CharSequence)
+android.support.v7.widget.SearchView: java.lang.CharSequence getQueryHint()
+android.support.v7.widget.SearchView: void setIconifiedByDefault(boolean)
+android.support.v7.widget.SearchView: void setIconified(boolean)
+android.support.v7.widget.SearchView: void setSubmitButtonEnabled(boolean)
+android.support.v7.widget.SearchView: void setQueryRefinementEnabled(boolean)
+android.support.v7.widget.SearchView: void setSuggestionsAdapter(android.support.v4.widget.CursorAdapter)
+android.support.v7.widget.SearchView: android.support.v4.widget.CursorAdapter getSuggestionsAdapter()
+android.support.v7.widget.SearchView: void setMaxWidth(int)
+android.support.v7.widget.SearchView: int getMaxWidth()
+android.support.v7.widget.SearchView: int getPreferredWidth()
+android.support.v7.widget.SearchView: void setImeVisibility(boolean)
+android.support.v7.widget.SearchView: int getSearchIconId()
+android.support.v7.widget.SearchView: void setQuery(java.lang.CharSequence)
+android.support.v7.widget.SearchView$SearchAutoComplete
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context)
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet)
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.widget.SearchView$SearchAutoComplete: void setSearchView(android.support.v7.widget.SearchView)
+android.support.v7.widget.SearchView$SearchAutoComplete: void setThreshold(int)
+com.appssearch.AppDetailsActivity
+com.appssearch.AppDetailsActivity: AppDetailsActivity()
+com.appssearch.DeteteDataService
+com.appssearch.DeteteDataService: DeteteDataService()
+com.appssearch.EndlessListView
+com.appssearch.EndlessListView: EndlessListView(android.content.Context,android.util.AttributeSet,int)
+com.appssearch.EndlessListView: EndlessListView(android.content.Context,android.util.AttributeSet)
+com.appssearch.EndlessListView: EndlessListView(android.content.Context)
+com.appssearch.EndlessListView: void setListener(com.appssearch.EndlessListView$EndlessListener)
+com.appssearch.EndlessListView: void setLoadingView(int)
+com.appssearch.EndlessListView: void setAdapter(com.appssearch.EndlessAdapter)
+com.appssearch.ExpandableListMainActivity
+com.appssearch.ExpandableListMainActivity: ExpandableListMainActivity()
+com.appssearch.LoginActivity
+com.appssearch.LoginActivity: LoginActivity()
+com.appssearch.LoginActivity: void onButtonClicked(android.view.View)
+com.appssearch.MainActivity
+com.appssearch.MainActivity: MainActivity()
+com.appssearch.MyAppDetails
+com.appssearch.MyAppDetails: android.os.Parcelable$Creator CREATOR
+com.appssearch.MyListener: void setListener(com.appssearch.MyListener$EndlessListener)
+com.appssearch.MyListener: void setLoadingView(int)
+com.appssearch.MyListener: void setAdapter(com.appssearch.EndlessAdapter)
+com.appssearch.UserSettingsActivity
+com.appssearch.UserSettingsActivity: UserSettingsActivity()
+com.example.newproject.R$anim: int abc_fade_in
+com.example.newproject.R$anim: int abc_fade_out
+com.example.newproject.R$anim: int abc_slide_in_bottom
+com.example.newproject.R$anim: int abc_slide_in_top
+com.example.newproject.R$anim: int abc_slide_out_bottom
+com.example.newproject.R$anim: int abc_slide_out_top
+com.example.newproject.R$array: int contentFiltering
+com.example.newproject.R$array: int default_permission_selection
+com.example.newproject.R$array: int delete_data_selection
+com.example.newproject.R$array: int permission_selection
+com.example.newproject.R$array: int planets_array
+com.example.newproject.R$array: int searchResult
+com.example.newproject.R$attr: int actionBarDivider
+com.example.newproject.R$attr: int actionBarItemBackground
+com.example.newproject.R$attr: int actionBarSize
+com.example.newproject.R$attr: int actionBarSplitStyle
+com.example.newproject.R$attr: int actionBarStyle
+com.example.newproject.R$attr: int actionBarTabBarStyle
+com.example.newproject.R$attr: int actionBarTabStyle
+com.example.newproject.R$attr: int actionBarTabTextStyle
+com.example.newproject.R$attr: int actionBarWidgetTheme
+com.example.newproject.R$attr: int actionButtonStyle
+com.example.newproject.R$attr: int actionDropDownStyle
+com.example.newproject.R$attr: int actionLayout
+com.example.newproject.R$attr: int actionMenuTextAppearance
+com.example.newproject.R$attr: int actionMenuTextColor
+com.example.newproject.R$attr: int actionModeBackground
+com.example.newproject.R$attr: int actionModeCloseButtonStyle
+com.example.newproject.R$attr: int actionModeCloseDrawable
+com.example.newproject.R$attr: int actionModeCopyDrawable
+com.example.newproject.R$attr: int actionModeCutDrawable
+com.example.newproject.R$attr: int actionModeFindDrawable
+com.example.newproject.R$attr: int actionModePasteDrawable
+com.example.newproject.R$attr: int actionModePopupWindowStyle
+com.example.newproject.R$attr: int actionModeSelectAllDrawable
+com.example.newproject.R$attr: int actionModeShareDrawable
+com.example.newproject.R$attr: int actionModeSplitBackground
+com.example.newproject.R$attr: int actionModeStyle
+com.example.newproject.R$attr: int actionModeWebSearchDrawable
+com.example.newproject.R$attr: int actionOverflowButtonStyle
+com.example.newproject.R$attr: int actionProviderClass
+com.example.newproject.R$attr: int actionViewClass
+com.example.newproject.R$attr: int activityChooserViewStyle
+com.example.newproject.R$attr: int background
+com.example.newproject.R$attr: int backgroundSplit
+com.example.newproject.R$attr: int backgroundStacked
+com.example.newproject.R$attr: int buttonBarButtonStyle
+com.example.newproject.R$attr: int buttonBarStyle
+com.example.newproject.R$attr: int customNavigationLayout
+com.example.newproject.R$attr: int disableChildrenWhenDisabled
+com.example.newproject.R$attr: int displayOptions
+com.example.newproject.R$attr: int divider
+com.example.newproject.R$attr: int dividerHorizontal
+com.example.newproject.R$attr: int dividerPadding
+com.example.newproject.R$attr: int dividerVertical
+com.example.newproject.R$attr: int dropDownListViewStyle
+com.example.newproject.R$attr: int dropdownListPreferredItemHeight
+com.example.newproject.R$attr: int expandActivityOverflowButtonDrawable
+com.example.newproject.R$attr: int height
+com.example.newproject.R$attr: int homeAsUpIndicator
+com.example.newproject.R$attr: int homeLayout
+com.example.newproject.R$attr: int icon
+com.example.newproject.R$attr: int iconifiedByDefault
+com.example.newproject.R$attr: int indeterminateProgressStyle
+com.example.newproject.R$attr: int initialActivityCount
+com.example.newproject.R$attr: int isLightTheme
+com.example.newproject.R$attr: int itemPadding
+com.example.newproject.R$attr: int listChoiceBackgroundIndicator
+com.example.newproject.R$attr: int listPopupWindowStyle
+com.example.newproject.R$attr: int listPreferredItemHeight
+com.example.newproject.R$attr: int listPreferredItemHeightLarge
+com.example.newproject.R$attr: int listPreferredItemHeightSmall
+com.example.newproject.R$attr: int listPreferredItemPaddingLeft
+com.example.newproject.R$attr: int listPreferredItemPaddingRight
+com.example.newproject.R$attr: int logo
+com.example.newproject.R$attr: int navigationMode
+com.example.newproject.R$attr: int paddingEnd
+com.example.newproject.R$attr: int paddingStart
+com.example.newproject.R$attr: int panelMenuListTheme
+com.example.newproject.R$attr: int panelMenuListWidth
+com.example.newproject.R$attr: int popupMenuStyle
+com.example.newproject.R$attr: int popupPromptView
+com.example.newproject.R$attr: int progressBarPadding
+com.example.newproject.R$attr: int progressBarStyle
+com.example.newproject.R$attr: int prompt
+com.example.newproject.R$attr: int queryHint
+com.example.newproject.R$attr: int searchDropdownBackground
+com.example.newproject.R$attr: int searchResultListItemHeight
+com.example.newproject.R$attr: int searchViewAutoCompleteTextView
+com.example.newproject.R$attr: int searchViewCloseIcon
+com.example.newproject.R$attr: int searchViewEditQuery
+com.example.newproject.R$attr: int searchViewEditQueryBackground
+com.example.newproject.R$attr: int searchViewGoIcon
+com.example.newproject.R$attr: int searchViewSearchIcon
+com.example.newproject.R$attr: int searchViewTextField
+com.example.newproject.R$attr: int searchViewTextFieldRight
+com.example.newproject.R$attr: int searchViewVoiceIcon
+com.example.newproject.R$attr: int selectableItemBackground
+com.example.newproject.R$attr: int showAsAction
+com.example.newproject.R$attr: int showDividers
+com.example.newproject.R$attr: int spinnerDropDownItemStyle
+com.example.newproject.R$attr: int spinnerMode
+com.example.newproject.R$attr: int spinnerStyle
+com.example.newproject.R$attr: int subtitle
+com.example.newproject.R$attr: int subtitleTextStyle
+com.example.newproject.R$attr: int textAllCaps
+com.example.newproject.R$attr: int textAppearanceLargePopupMenu
+com.example.newproject.R$attr: int textAppearanceListItem
+com.example.newproject.R$attr: int textAppearanceListItemSmall
+com.example.newproject.R$attr: int textAppearanceSearchResultSubtitle
+com.example.newproject.R$attr: int textAppearanceSearchResultTitle
+com.example.newproject.R$attr: int textAppearanceSmallPopupMenu
+com.example.newproject.R$attr: int textColorSearchUrl
+com.example.newproject.R$attr: int title
+com.example.newproject.R$attr: int titleTextStyle
+com.example.newproject.R$attr: int windowActionBar
+com.example.newproject.R$attr: int windowActionBarOverlay
+com.example.newproject.R$attr: int windowFixedHeightMajor
+com.example.newproject.R$attr: int windowFixedHeightMinor
+com.example.newproject.R$attr: int windowFixedWidthMajor
+com.example.newproject.R$attr: int windowFixedWidthMinor
+com.example.newproject.R$attr: int windowSplitActionBar
+com.example.newproject.R$bool: int abc_action_bar_embed_tabs_pre_jb
+com.example.newproject.R$bool: int abc_action_bar_expanded_action_views_exclusive
+com.example.newproject.R$bool: int abc_config_actionMenuItemAllCaps
+com.example.newproject.R$bool: int abc_config_allowActionMenuItemTextWithIcon
+com.example.newproject.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
+com.example.newproject.R$bool: int abc_split_action_bar_is_narrow
+com.example.newproject.R$color: int abc_search_url_text_holo
+com.example.newproject.R$color: int abc_search_url_text_normal
+com.example.newproject.R$color: int abc_search_url_text_pressed
+com.example.newproject.R$color: int abc_search_url_text_selected
+com.example.newproject.R$color: int black
+com.example.newproject.R$color: int whitegrey
+com.example.newproject.R$dimen: int abc_action_bar_default_height
+com.example.newproject.R$dimen: int abc_action_bar_icon_vertical_padding
+com.example.newproject.R$dimen: int abc_action_bar_progress_bar_size
+com.example.newproject.R$dimen: int abc_action_bar_stacked_max_height
+com.example.newproject.R$dimen: int abc_action_bar_stacked_tab_max_width
+com.example.newproject.R$dimen: int abc_action_bar_subtitle_bottom_margin
+com.example.newproject.R$dimen: int abc_action_bar_subtitle_text_size
+com.example.newproject.R$dimen: int abc_action_bar_subtitle_top_margin
+com.example.newproject.R$dimen: int abc_action_bar_title_text_size
+com.example.newproject.R$dimen: int abc_action_button_min_width
+com.example.newproject.R$dimen: int abc_config_prefDialogWidth
+com.example.newproject.R$dimen: int abc_dropdownitem_icon_width
+com.example.newproject.R$dimen: int abc_dropdownitem_text_padding_left
+com.example.newproject.R$dimen: int abc_dropdownitem_text_padding_right
+com.example.newproject.R$dimen: int abc_panel_menu_list_width
+com.example.newproject.R$dimen: int abc_search_view_preferred_width
+com.example.newproject.R$dimen: int abc_search_view_text_min_width
+com.example.newproject.R$dimen: int activity_horizontal_margin
+com.example.newproject.R$dimen: int bar_font
+com.example.newproject.R$dimen: int bar_height
+com.example.newproject.R$dimen: int dialog_fixed_height_major
+com.example.newproject.R$dimen: int dialog_fixed_height_minor
+com.example.newproject.R$dimen: int dialog_fixed_width_major
+com.example.newproject.R$dimen: int dialog_fixed_width_minor
+com.example.newproject.R$dimen: int icon
+com.example.newproject.R$dimen: int icon_score
+com.example.newproject.R$dimen: int icon_small_app
+com.example.newproject.R$drawable: int abc_ab_bottom_solid_dark_holo
+com.example.newproject.R$drawable: int abc_ab_bottom_solid_light_holo
+com.example.newproject.R$drawable: int abc_ab_bottom_transparent_dark_holo
+com.example.newproject.R$drawable: int abc_ab_bottom_transparent_light_holo
+com.example.newproject.R$drawable: int abc_ab_share_pack_holo_dark
+com.example.newproject.R$drawable: int abc_ab_share_pack_holo_light
+com.example.newproject.R$drawable: int abc_ab_solid_dark_holo
+com.example.newproject.R$drawable: int abc_ab_solid_light_holo
+com.example.newproject.R$drawable: int abc_ab_stacked_solid_dark_holo
+com.example.newproject.R$drawable: int abc_ab_stacked_solid_light_holo
+com.example.newproject.R$drawable: int abc_ab_stacked_transparent_dark_holo
+com.example.newproject.R$drawable: int abc_ab_stacked_transparent_light_holo
+com.example.newproject.R$drawable: int abc_ab_transparent_dark_holo
+com.example.newproject.R$drawable: int abc_ab_transparent_light_holo
+com.example.newproject.R$drawable: int abc_cab_background_bottom_holo_dark
+com.example.newproject.R$drawable: int abc_cab_background_bottom_holo_light
+com.example.newproject.R$drawable: int abc_cab_background_top_holo_dark
+com.example.newproject.R$drawable: int abc_cab_background_top_holo_light
+com.example.newproject.R$drawable: int abc_ic_ab_back_holo_dark
+com.example.newproject.R$drawable: int abc_ic_ab_back_holo_light
+com.example.newproject.R$drawable: int abc_ic_cab_done_holo_dark
+com.example.newproject.R$drawable: int abc_ic_cab_done_holo_light
+com.example.newproject.R$drawable: int abc_ic_clear
+com.example.newproject.R$drawable: int abc_ic_clear_disabled
+com.example.newproject.R$drawable: int abc_ic_clear_holo_light
+com.example.newproject.R$drawable: int abc_ic_clear_normal
+com.example.newproject.R$drawable: int abc_ic_clear_search_api_disabled_holo_light
+com.example.newproject.R$drawable: int abc_ic_clear_search_api_holo_light
+com.example.newproject.R$drawable: int abc_ic_commit_search_api_holo_dark
+com.example.newproject.R$drawable: int abc_ic_commit_search_api_holo_light
+com.example.newproject.R$drawable: int abc_ic_go
+com.example.newproject.R$drawable: int abc_ic_go_search_api_holo_light
+com.example.newproject.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_dark
+com.example.newproject.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_light
+com.example.newproject.R$drawable: int abc_ic_menu_share_holo_dark
+com.example.newproject.R$drawable: int abc_ic_menu_share_holo_light
+com.example.newproject.R$drawable: int abc_ic_search
+com.example.newproject.R$drawable: int abc_ic_search_api_holo_light
+com.example.newproject.R$drawable: int abc_ic_voice_search
+com.example.newproject.R$drawable: int abc_ic_voice_search_api_holo_light
+com.example.newproject.R$drawable: int abc_item_background_holo_dark
+com.example.newproject.R$drawable: int abc_item_background_holo_light
+com.example.newproject.R$drawable: int abc_list_divider_holo_dark
+com.example.newproject.R$drawable: int abc_list_divider_holo_light
+com.example.newproject.R$drawable: int abc_list_focused_holo
+com.example.newproject.R$drawable: int abc_list_longpressed_holo
+com.example.newproject.R$drawable: int abc_list_pressed_holo_dark
+com.example.newproject.R$drawable: int abc_list_pressed_holo_light
+com.example.newproject.R$drawable: int abc_list_selector_background_transition_holo_dark
+com.example.newproject.R$drawable: int abc_list_selector_background_transition_holo_light
+com.example.newproject.R$drawable: int abc_list_selector_disabled_holo_dark
+com.example.newproject.R$drawable: int abc_list_selector_disabled_holo_light
+com.example.newproject.R$drawable: int abc_list_selector_holo_dark
+com.example.newproject.R$drawable: int abc_list_selector_holo_light
+com.example.newproject.R$drawable: int abc_menu_dropdown_panel_holo_dark
+com.example.newproject.R$drawable: int abc_menu_dropdown_panel_holo_light
+com.example.newproject.R$drawable: int abc_menu_hardkey_panel_holo_dark
+com.example.newproject.R$drawable: int abc_menu_hardkey_panel_holo_light
+com.example.newproject.R$drawable: int abc_search_dropdown_dark
+com.example.newproject.R$drawable: int abc_search_dropdown_light
+com.example.newproject.R$drawable: int abc_spinner_ab_default_holo_dark
+com.example.newproject.R$drawable: int abc_spinner_ab_default_holo_light
+com.example.newproject.R$drawable: int abc_spinner_ab_disabled_holo_dark
+com.example.newproject.R$drawable: int abc_spinner_ab_disabled_holo_light
+com.example.newproject.R$drawable: int abc_spinner_ab_focused_holo_dark
+com.example.newproject.R$drawable: int abc_spinner_ab_focused_holo_light
+com.example.newproject.R$drawable: int abc_spinner_ab_holo_dark
+com.example.newproject.R$drawable: int abc_spinner_ab_holo_light
+com.example.newproject.R$drawable: int abc_spinner_ab_pressed_holo_dark
+com.example.newproject.R$drawable: int abc_spinner_ab_pressed_holo_light
+com.example.newproject.R$drawable: int abc_tab_indicator_ab_holo
+com.example.newproject.R$drawable: int abc_tab_selected_focused_holo
+com.example.newproject.R$drawable: int abc_tab_selected_holo
+com.example.newproject.R$drawable: int abc_tab_selected_pressed_holo
+com.example.newproject.R$drawable: int abc_tab_unselected_pressed_holo
+com.example.newproject.R$drawable: int abc_textfield_search_default_holo_dark
+com.example.newproject.R$drawable: int abc_textfield_search_default_holo_light
+com.example.newproject.R$drawable: int abc_textfield_search_right_default_holo_dark
+com.example.newproject.R$drawable: int abc_textfield_search_right_default_holo_light
+com.example.newproject.R$drawable: int abc_textfield_search_right_selected_holo_dark
+com.example.newproject.R$drawable: int abc_textfield_search_right_selected_holo_light
+com.example.newproject.R$drawable: int abc_textfield_search_selected_holo_dark
+com.example.newproject.R$drawable: int abc_textfield_search_selected_holo_light
+com.example.newproject.R$drawable: int abc_textfield_searchview_holo_dark
+com.example.newproject.R$drawable: int abc_textfield_searchview_holo_light
+com.example.newproject.R$drawable: int abc_textfield_searchview_right_holo_dark
+com.example.newproject.R$drawable: int abc_textfield_searchview_right_holo_light
+com.example.newproject.R$drawable: int action_bar_bg_apps
+com.example.newproject.R$drawable: int action_bar_bg_books
+com.example.newproject.R$drawable: int action_bar_bg_home
+com.example.newproject.R$drawable: int action_bar_bg_movies
+com.example.newproject.R$drawable: int action_bar_bg_music
+com.example.newproject.R$drawable: int action_bar_bg_newsstand
+com.example.newproject.R$drawable: int android_logo
+com.example.newproject.R$drawable: int arrow_right
+com.example.newproject.R$drawable: int bg_banner_dialog
+com.example.newproject.R$drawable: int btn_add_friend
+com.example.newproject.R$drawable: int btn_added_friend
+com.example.newproject.R$drawable: int btn_corpus_apps_games
+com.example.newproject.R$drawable: int btn_corpus_books
+com.example.newproject.R$drawable: int btn_corpus_movies
+com.example.newproject.R$drawable: int btn_corpus_music
+com.example.newproject.R$drawable: int btn_corpus_newsstand
+com.example.newproject.R$drawable: int btn_follow_blue
+com.example.newproject.R$drawable: int btn_follow_green
+com.example.newproject.R$drawable: int btn_hover
+com.example.newproject.R$drawable: int btn_hover_dark
+com.example.newproject.R$drawable: int btn_hover_focus
+com.example.newproject.R$drawable: int btn_hover_light
+com.example.newproject.R$drawable: int card_background
+com.example.newproject.R$drawable: int card_bg_play
+com.example.newproject.R$drawable: int common_signin_btn_icon_disabled_dark
+com.example.newproject.R$drawable: int common_signin_btn_icon_disabled_focus_dark
+com.example.newproject.R$drawable: int common_signin_btn_icon_disabled_focus_light
+com.example.newproject.R$drawable: int common_signin_btn_icon_disabled_light
+com.example.newproject.R$drawable: int common_signin_btn_icon_focus_dark
+com.example.newproject.R$drawable: int common_signin_btn_icon_focus_light
+com.example.newproject.R$drawable: int common_signin_btn_icon_normal_dark
+com.example.newproject.R$drawable: int common_signin_btn_icon_normal_light
+com.example.newproject.R$drawable: int common_signin_btn_icon_pressed_dark
+com.example.newproject.R$drawable: int common_signin_btn_icon_pressed_light
+com.example.newproject.R$drawable: int common_signin_btn_text_disabled_dark
+com.example.newproject.R$drawable: int common_signin_btn_text_disabled_focus_dark
+com.example.newproject.R$drawable: int common_signin_btn_text_disabled_focus_light
+com.example.newproject.R$drawable: int common_signin_btn_text_disabled_light
+com.example.newproject.R$drawable: int common_signin_btn_text_focus_dark
+com.example.newproject.R$drawable: int common_signin_btn_text_focus_light
+com.example.newproject.R$drawable: int common_signin_btn_text_normal_dark
+com.example.newproject.R$drawable: int common_signin_btn_text_normal_light
+com.example.newproject.R$drawable: int common_signin_btn_text_pressed_dark
+com.example.newproject.R$drawable: int common_signin_btn_text_pressed_light
+com.example.newproject.R$drawable: int drawer_shadow
+com.example.newproject.R$drawable: int flo_widget_empty_logo
+com.example.newproject.R$drawable: int flo_widget_empty_logo_white
+com.example.newproject.R$drawable: int ic_ab_back
+com.example.newproject.R$drawable: int ic_accounts
+com.example.newproject.R$drawable: int ic_android
+com.example.newproject.R$drawable: int ic_bluetooth
+com.example.newproject.R$drawable: int ic_check
+com.example.newproject.R$drawable: int ic_checkmark_apps
+com.example.newproject.R$drawable: int ic_checkmark_books
+com.example.newproject.R$drawable: int ic_checkmark_movies
+com.example.newproject.R$drawable: int ic_checkmark_music
+com.example.newproject.R$drawable: int ic_checkmark_newsstand
+com.example.newproject.R$drawable: int ic_circles_green
+com.example.newproject.R$drawable: int ic_circles_white
+com.example.newproject.R$drawable: int ic_circular_overflow_dark
+com.example.newproject.R$drawable: int ic_contacts
+com.example.newproject.R$drawable: int ic_device_control
+com.example.newproject.R$drawable: int ic_down_white_16
+com.example.newproject.R$drawable: int ic_drawer_white
+com.example.newproject.R$drawable: int ic_edit_app
+com.example.newproject.R$drawable: int ic_edit_books
+com.example.newproject.R$drawable: int ic_edit_movies
+com.example.newproject.R$drawable: int ic_edit_music
+com.example.newproject.R$drawable: int ic_edit_newsstand
+com.example.newproject.R$drawable: int ic_empty_activities
+com.example.newproject.R$drawable: int ic_empty_rate
+com.example.newproject.R$drawable: int ic_gear_40
+com.example.newproject.R$drawable: int ic_google_cloud
+com.example.newproject.R$drawable: int ic_google_plus
+com.example.newproject.R$drawable: int ic_gplay_dangerous_downward
+com.example.newproject.R$drawable: int ic_gplay_dangerous_right
+com.example.newproject.R$drawable: int ic_gplay_normal_downward
+com.example.newproject.R$drawable: int ic_gplay_normal_right
+com.example.newproject.R$drawable: int ic_gplay_signature_downward
+com.example.newproject.R$drawable: int ic_gplay_signature_right
+com.example.newproject.R$drawable: int ic_gplay_system_downward
+com.example.newproject.R$drawable: int ic_gplay_system_right
+com.example.newproject.R$drawable: int ic_health
+com.example.newproject.R$drawable: int ic_help_40
+com.example.newproject.R$drawable: int ic_hidden_cards
+com.example.newproject.R$drawable: int ic_hotseat_check_book
+com.example.newproject.R$drawable: int ic_hotseat_check_movies
+com.example.newproject.R$drawable: int ic_hotseat_check_music
+com.example.newproject.R$drawable: int ic_hotseat_check_newsstand
+com.example.newproject.R$drawable: int ic_how_to_books
+com.example.newproject.R$drawable: int ic_how_to_computer
+com.example.newproject.R$drawable: int ic_how_to_magazines
+com.example.newproject.R$drawable: int ic_how_to_movies
+com.example.newproject.R$drawable: int ic_how_to_music
+com.example.newproject.R$drawable: int ic_internet
+com.example.newproject.R$drawable: int ic_internet2
+com.example.newproject.R$drawable: int ic_launcher
+com.example.newproject.R$drawable: int ic_locked_holo_light
+com.example.newproject.R$drawable: int ic_magnifier
+com.example.newproject.R$drawable: int ic_menu_check_holo_light
+com.example.newproject.R$drawable: int ic_menu_close_clear_cancel_light
+com.example.newproject.R$drawable: int ic_menu_expander_apps_maximized_light
+com.example.newproject.R$drawable: int ic_menu_expander_apps_minimized_light
+com.example.newproject.R$drawable: int ic_menu_expander_books_maximized_light
+com.example.newproject.R$drawable: int ic_menu_expander_books_minimized_light
+com.example.newproject.R$drawable: int ic_menu_expander_maximized_holo_light
+com.example.newproject.R$drawable: int ic_menu_expander_maximized_light
+com.example.newproject.R$drawable: int ic_menu_expander_maximized_light_right
+com.example.newproject.R$drawable: int ic_menu_expander_minimized_holo_light
+com.example.newproject.R$drawable: int ic_menu_expander_minimized_light
+com.example.newproject.R$drawable: int ic_menu_expander_minimized_light_down
+com.example.newproject.R$drawable: int ic_menu_expander_movies_maximized_light
+com.example.newproject.R$drawable: int ic_menu_expander_movies_minimized_light
+com.example.newproject.R$drawable: int ic_menu_expander_music_maximized_light
+com.example.newproject.R$drawable: int ic_menu_expander_music_minimized_light
+com.example.newproject.R$drawable: int ic_menu_expander_newsstand_maximized_light
+com.example.newproject.R$drawable: int ic_menu_expander_newsstand_minimized_light
+com.example.newproject.R$drawable: int ic_menu_info_details_light
+com.example.newproject.R$drawable: int ic_menu_moreoverflow_card_dark_focused
+com.example.newproject.R$drawable: int ic_menu_moreoverflow_card_dark_normal
+com.example.newproject.R$drawable: int ic_menu_moreoverflow_card_dark_pressed
+com.example.newproject.R$drawable: int ic_menu_search_holo_dark
+com.example.newproject.R$drawable: int ic_menu_share_holo_dark
+com.example.newproject.R$drawable: int ic_menu_shield_dark
+com.example.newproject.R$drawable: int ic_menu_shield_warning_dark
+com.example.newproject.R$drawable: int ic_menu_shop_holo_dark
+com.example.newproject.R$drawable: int ic_menu_wish_off_dark
+com.example.newproject.R$drawable: int ic_menu_wish_on_dark
+com.example.newproject.R$drawable: int ic_more_details_light
+com.example.newproject.R$drawable: int ic_more_options_light
+com.example.newproject.R$drawable: int ic_not_now
+com.example.newproject.R$drawable: int ic_perm_accounts
+com.example.newproject.R$drawable: int ic_perm_cal
+com.example.newproject.R$drawable: int ic_perm_camera
+com.example.newproject.R$drawable: int ic_perm_camera_microphone
+com.example.newproject.R$drawable: int ic_perm_cc
+com.example.newproject.R$drawable: int ic_perm_check
+com.example.newproject.R$drawable: int ic_perm_contact_cal
+com.example.newproject.R$drawable: int ic_perm_contacts
+com.example.newproject.R$drawable: int ic_perm_data_setting
+com.example.newproject.R$drawable: int ic_perm_deviceid
+com.example.newproject.R$drawable: int ic_perm_history
+com.example.newproject.R$drawable: int ic_perm_identity
+com.example.newproject.R$drawable: int ic_perm_in_app_purchases
+com.example.newproject.R$drawable: int ic_perm_location
+com.example.newproject.R$drawable: int ic_perm_media
+com.example.newproject.R$drawable: int ic_perm_messaging
+com.example.newproject.R$drawable: int ic_perm_microphone
+com.example.newproject.R$drawable: int ic_perm_phone
+com.example.newproject.R$drawable: int ic_perm_scan_wifi
+com.example.newproject.R$drawable: int ic_perm_storage
+com.example.newproject.R$drawable: int ic_perm_unknown
+com.example.newproject.R$drawable: int ic_play_lists_close
+com.example.newproject.R$drawable: int ic_plusone_medium_off_client
+com.example.newproject.R$drawable: int ic_plusone_small_off_client
+com.example.newproject.R$drawable: int ic_plusone_standard_off_client
+com.example.newproject.R$drawable: int ic_plusone_tall_off_client
+com.example.newproject.R$drawable: int ic_private_info
+com.example.newproject.R$drawable: int ic_rate_mini_star_market_half
+com.example.newproject.R$drawable: int ic_rate_mini_star_market_off
+com.example.newproject.R$drawable: int ic_rate_mini_star_market_on
+com.example.newproject.R$drawable: int ic_rate_star_market_half
+com.example.newproject.R$drawable: int ic_rate_star_market_off
+com.example.newproject.R$drawable: int ic_rate_star_market_on
+com.example.newproject.R$drawable: int ic_remind_later_light
+com.example.newproject.R$drawable: int ic_selected_instrument_light
+com.example.newproject.R$drawable: int ic_shield_dark
+com.example.newproject.R$drawable: int ic_shield_warning_dark
+com.example.newproject.R$drawable: int ic_sms
+com.example.newproject.R$drawable: int ic_stat_shield
+com.example.newproject.R$drawable: int ic_storage
+com.example.newproject.R$drawable: int ic_store_carrier_billing
+com.example.newproject.R$drawable: int ic_store_carrier_billing_light
+com.example.newproject.R$drawable: int ic_store_credit_card
+com.example.newproject.R$drawable: int ic_store_credit_card_light
+com.example.newproject.R$drawable: int ic_store_gift_card
+com.example.newproject.R$drawable: int ic_store_gift_card_light
+com.example.newproject.R$drawable: int ic_store_gift_card_small
+com.example.newproject.R$drawable: int ic_store_paypal_light
+com.example.newproject.R$drawable: int ic_store_play_balance_light
+com.example.newproject.R$drawable: int ic_store_remind
+com.example.newproject.R$drawable: int ic_system_tools
+com.example.newproject.R$drawable: int ic_up_white_16
+com.example.newproject.R$drawable: int list_divider_holo_light
+com.example.newproject.R$drawable: int logo_play_purchase_flow_gray_light
+com.example.newproject.R$drawable: int overlay_focused_blue
+com.example.newproject.R$drawable: int overlay_pressed_blue
+com.example.newproject.R$drawable: int overlay_pressed_dark
+com.example.newproject.R$drawable: int overlay_pressed_light
+com.example.newproject.R$drawable: int overlay_round_focused_blue
+com.example.newproject.R$drawable: int overlay_round_pressed_blue
+com.example.newproject.R$drawable: int overlay_round_pressed_dark
+com.example.newproject.R$drawable: int overlay_round_pressed_light
+com.example.newproject.R$drawable: int overlay_shade_dark
+com.example.newproject.R$drawable: int popup_selector_bg
+com.example.newproject.R$drawable: int purchase_wallet
+com.example.newproject.R$drawable: int rate_review_bg
+com.example.newproject.R$drawable: int spinner_ab_pressed_holo_light
+com.example.newproject.R$drawable: int spinner_apps_pressed_holo_light
+com.example.newproject.R$drawable: int spinner_books_pressed_holo_light
+com.example.newproject.R$drawable: int spinner_movies_pressed_holo_light
+com.example.newproject.R$drawable: int spinner_music_pressed_holo_light
+com.example.newproject.R$drawable: int spinner_newsstand_pressed_holo_light
+com.example.newproject.R$drawable: int spinner_pressed_holo_light
+com.example.newproject.R$drawable: int stat_notify_installed
+com.example.newproject.R$drawable: int stat_notify_installed_collapse
+com.example.newproject.R$drawable: int stat_notify_shield
+com.example.newproject.R$drawable: int stat_notify_shield_warning
+com.example.newproject.R$drawable: int stat_notify_update
+com.example.newproject.R$drawable: int stat_notify_update_collapse
+com.example.newproject.R$drawable: int tab_selected_focused_holo
+com.example.newproject.R$drawable: int tab_selected_holo
+com.example.newproject.R$drawable: int tab_selected_pressed_holo
+com.example.newproject.R$drawable: int tab_unselected_focused_holo
+com.example.newproject.R$drawable: int tab_unselected_holo
+com.example.newproject.R$drawable: int tab_unselected_pressed_holo
+com.example.newproject.R$id: int AppTitle
+com.example.newproject.R$id: int action_bar
+com.example.newproject.R$id: int action_bar_activity_content
+com.example.newproject.R$id: int action_bar_container
+com.example.newproject.R$id: int action_bar_overlay_layout
+com.example.newproject.R$id: int action_bar_root
+com.example.newproject.R$id: int action_bar_subtitle
+com.example.newproject.R$id: int action_bar_title
+com.example.newproject.R$id: int action_context_bar
+com.example.newproject.R$id: int action_menu_divider
+com.example.newproject.R$id: int action_menu_presenter
+com.example.newproject.R$id: int action_mode_close_button
+com.example.newproject.R$id: int action_settings
+com.example.newproject.R$id: int action_update_gmail_account
+com.example.newproject.R$id: int activity_chooser_view_content
+com.example.newproject.R$id: int always
+com.example.newproject.R$id: int beginning
+com.example.newproject.R$id: int cancel
+com.example.newproject.R$id: int categoryfilterBar
+com.example.newproject.R$id: int checkbox
+com.example.newproject.R$id: int collapseActionView
+com.example.newproject.R$id: int confirm
+com.example.newproject.R$id: int default_activity_button
+com.example.newproject.R$id: int descr
+com.example.newproject.R$id: int dialog
+com.example.newproject.R$id: int disableHome
+com.example.newproject.R$id: int dropdown
+com.example.newproject.R$id: int edit_query
+com.example.newproject.R$id: int end
+com.example.newproject.R$id: int expand_activities_button
+com.example.newproject.R$id: int expanded_menu
+com.example.newproject.R$id: int home
+com.example.newproject.R$id: int homeAsUp
+com.example.newproject.R$id: int icon
+com.example.newproject.R$id: int icon_category
+com.example.newproject.R$id: int ifRoom
+com.example.newproject.R$id: int image
+com.example.newproject.R$id: int item_gplay
+com.example.newproject.R$id: int label
+com.example.newproject.R$id: int label_bottm
+com.example.newproject.R$id: int label_empty
+com.example.newproject.R$id: int label_top
+com.example.newproject.R$id: int listMode
+com.example.newproject.R$id: int list_item
+com.example.newproject.R$id: int listview
+com.example.newproject.R$id: int logo
+com.example.newproject.R$id: int mainfilterBar
+com.example.newproject.R$id: int middle
+com.example.newproject.R$id: int never
+com.example.newproject.R$id: int none
+com.example.newproject.R$id: int normal
+com.example.newproject.R$id: int options_menu_main_search
+com.example.newproject.R$id: int password
+com.example.newproject.R$id: int permfilterBar
+com.example.newproject.R$id: int permissionCount
+com.example.newproject.R$id: int progress_circular
+com.example.newproject.R$id: int progress_horizontal
+com.example.newproject.R$id: int protectLogo
+com.example.newproject.R$id: int protectfilterBar
+com.example.newproject.R$id: int radio
+com.example.newproject.R$id: int ratingBar
+com.example.newproject.R$id: int search_badge
+com.example.newproject.R$id: int search_bar
+com.example.newproject.R$id: int search_button
+com.example.newproject.R$id: int search_close_btn
+com.example.newproject.R$id: int search_edit_frame
+com.example.newproject.R$id: int search_go_btn
+com.example.newproject.R$id: int search_mag_icon
+com.example.newproject.R$id: int search_plate
+com.example.newproject.R$id: int search_src_text
+com.example.newproject.R$id: int search_voice_btn
+com.example.newproject.R$id: int shortcut
+com.example.newproject.R$id: int showCustom
+com.example.newproject.R$id: int showHome
+com.example.newproject.R$id: int showTitle
+com.example.newproject.R$id: int split_action_bar
+com.example.newproject.R$id: int submit_area
+com.example.newproject.R$id: int tabMode
+com.example.newproject.R$id: int textViewCategoryName
+com.example.newproject.R$id: int textViewChild
+com.example.newproject.R$id: int textViewGroupName
+com.example.newproject.R$id: int title
+com.example.newproject.R$id: int top_action_bar
+com.example.newproject.R$id: int up
+com.example.newproject.R$id: int useLogo
+com.example.newproject.R$id: int username
+com.example.newproject.R$id: int withText
+com.example.newproject.R$integer: int abc_max_action_buttons
+com.example.newproject.R$layout: int abc_action_bar_decor
+com.example.newproject.R$layout: int abc_action_bar_decor_include
+com.example.newproject.R$layout: int abc_action_bar_decor_overlay
+com.example.newproject.R$layout: int abc_action_bar_home
+com.example.newproject.R$layout: int abc_action_bar_tab
+com.example.newproject.R$layout: int abc_action_bar_tabbar
+com.example.newproject.R$layout: int abc_action_bar_title_item
+com.example.newproject.R$layout: int abc_action_bar_view_list_nav_layout
+com.example.newproject.R$layout: int abc_action_menu_item_layout
+com.example.newproject.R$layout: int abc_action_menu_layout
+com.example.newproject.R$layout: int abc_action_mode_bar
+com.example.newproject.R$layout: int abc_action_mode_close_item
+com.example.newproject.R$layout: int abc_activity_chooser_view
+com.example.newproject.R$layout: int abc_activity_chooser_view_include
+com.example.newproject.R$layout: int abc_activity_chooser_view_list_item
+com.example.newproject.R$layout: int abc_expanded_menu_layout
+com.example.newproject.R$layout: int abc_list_menu_item_checkbox
+com.example.newproject.R$layout: int abc_list_menu_item_icon
+com.example.newproject.R$layout: int abc_list_menu_item_layout
+com.example.newproject.R$layout: int abc_list_menu_item_radio
+com.example.newproject.R$layout: int abc_popup_menu_item_layout
+com.example.newproject.R$layout: int abc_search_dropdown_item_icons_2line
+com.example.newproject.R$layout: int abc_search_view
+com.example.newproject.R$layout: int abc_simple_decor
+com.example.newproject.R$layout: int activity_main
+com.example.newproject.R$layout: int app_details
+com.example.newproject.R$layout: int category_view
+com.example.newproject.R$layout: int child_view
+com.example.newproject.R$layout: int login2
+com.example.newproject.R$layout: int parent_view
+com.example.newproject.R$layout: int search_result
+com.example.newproject.R$layout: int support_simple_spinner_dropdown_item
+com.example.newproject.R$layout: int update_gmail
+com.example.newproject.R$menu: int context_menu
+com.example.newproject.R$menu: int main
+com.example.newproject.R$raw: int perm_descrptions
+com.example.newproject.R$raw: int perm_security
+com.example.newproject.R$raw: int permissions
+com.example.newproject.R$string: int ACCESS_CHECKIN_PROPERTIES
+com.example.newproject.R$string: int ACCESS_COARSE_LOCATION
+com.example.newproject.R$string: int ACCESS_FINE_LOCATION
+com.example.newproject.R$string: int ACCESS_LOCATION_EXTRA_COMMANDS
+com.example.newproject.R$string: int ACCESS_MOCK_LOCATION
+com.example.newproject.R$string: int ACCESS_NETWORK_STATE
+com.example.newproject.R$string: int ACCESS_SURFACE_FLINGER
+com.example.newproject.R$string: int ACCESS_WIFI_STATE
+com.example.newproject.R$string: int ACCOUNT_MANAGER
+com.example.newproject.R$string: int ADD_VOICEMAIL
+com.example.newproject.R$string: int abc_action_bar_home_description
+com.example.newproject.R$string: int abc_action_bar_up_description
+com.example.newproject.R$string: int abc_action_menu_overflow_description
+com.example.newproject.R$string: int abc_action_mode_done
+com.example.newproject.R$string: int abc_activity_chooser_view_see_all
+com.example.newproject.R$string: int abc_activitychooserview_choose_application
+com.example.newproject.R$string: int abc_searchview_description_clear
+com.example.newproject.R$string: int abc_searchview_description_query
+com.example.newproject.R$string: int abc_searchview_description_search
+com.example.newproject.R$string: int abc_searchview_description_submit
+com.example.newproject.R$string: int abc_searchview_description_voice
+com.example.newproject.R$string: int abc_shareactionprovider_share_with
+com.example.newproject.R$string: int abc_shareactionprovider_share_with_application
+com.example.newproject.R$string: int actionUpdateGmail
+com.example.newproject.R$string: int action_settings
+com.example.newproject.R$string: int app_name
+com.example.newproject.R$string: int bottomLabel
+com.example.newproject.R$string: int expandListHeader
+com.example.newproject.R$string: int hello_world
+com.example.newproject.R$string: int password
+com.example.newproject.R$string: int pref_content_filtering
+com.example.newproject.R$string: int pref_content_filtering_summ
+com.example.newproject.R$string: int pref_delete_data_descr
+com.example.newproject.R$string: int pref_delete_data_selection
+com.example.newproject.R$string: int pref_perm_selection
+com.example.newproject.R$string: int pref_perm_selection_descr
+com.example.newproject.R$string: int pref_search_result
+com.example.newproject.R$string: int pref_search_result_summ
+com.example.newproject.R$string: int pref_send_report
+com.example.newproject.R$string: int pref_send_report_summary
+com.example.newproject.R$string: int pref_sync_frequency
+com.example.newproject.R$string: int pref_sync_frequency_summary
+com.example.newproject.R$string: int pref_update_setting
+com.example.newproject.R$string: int pref_user_name
+com.example.newproject.R$string: int pref_user_name_summary
+com.example.newproject.R$string: int pref_user_profile
+com.example.newproject.R$string: int search_global_description
+com.example.newproject.R$string: int search_hint
+com.example.newproject.R$string: int search_label
+com.example.newproject.R$string: int topLabel
+com.example.newproject.R$string: int ui_tabname_free
+com.example.newproject.R$string: int ui_tabname_paid
+com.example.newproject.R$string: int username
+com.example.newproject.R$style: int AppBaseTheme
+com.example.newproject.R$style: int AppTheme
+com.example.newproject.R$style: int TextAppearance_AppCompat_Base_CompactMenu_Dialog
+com.example.newproject.R$style: int TextAppearance_AppCompat_Base_SearchResult
+com.example.newproject.R$style: int TextAppearance_AppCompat_Base_SearchResult_Subtitle
+com.example.newproject.R$style: int TextAppearance_AppCompat_Base_SearchResult_Title
+com.example.newproject.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Large
+com.example.newproject.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Small
+com.example.newproject.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult
+com.example.newproject.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Subtitle
+com.example.newproject.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Title
+com.example.newproject.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Large
+com.example.newproject.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Small
+com.example.newproject.R$style: int TextAppearance_AppCompat_Light_SearchResult_Subtitle
+com.example.newproject.R$style: int TextAppearance_AppCompat_Light_SearchResult_Title
+com.example.newproject.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large
+com.example.newproject.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small
+com.example.newproject.R$style: int TextAppearance_AppCompat_SearchResult_Subtitle
+com.example.newproject.R$style: int TextAppearance_AppCompat_SearchResult_Title
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Menu
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Menu
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle_Inverse
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title_Inverse
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle_Inverse
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title_Inverse
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_Base_DropDownItem
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_DropDownItem
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Large
+com.example.newproject.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Small
+com.example.newproject.R$style: int TextAppearance_Widget_AppCompat_Base_ExpandedMenu_Item
+com.example.newproject.R$style: int TextAppearance_Widget_AppCompat_ExpandedMenu_Item
+com.example.newproject.R$style: int Theme_AppCompat
+com.example.newproject.R$style: int Theme_AppCompat_Base_CompactMenu
+com.example.newproject.R$style: int Theme_AppCompat_Base_CompactMenu_Dialog
+com.example.newproject.R$style: int Theme_AppCompat_CompactMenu
+com.example.newproject.R$style: int Theme_AppCompat_CompactMenu_Dialog
+com.example.newproject.R$style: int Theme_AppCompat_DialogWhenLarge
+com.example.newproject.R$style: int Theme_AppCompat_Light
+com.example.newproject.R$style: int Theme_AppCompat_Light_DarkActionBar
+com.example.newproject.R$style: int Theme_AppCompat_Light_DialogWhenLarge
+com.example.newproject.R$style: int Theme_Base
+com.example.newproject.R$style: int Theme_Base_AppCompat
+com.example.newproject.R$style: int Theme_Base_AppCompat_Dialog_FixedSize
+com.example.newproject.R$style: int Theme_Base_AppCompat_Dialog_Light_FixedSize
+com.example.newproject.R$style: int Theme_Base_AppCompat_DialogWhenLarge
+com.example.newproject.R$style: int Theme_Base_AppCompat_DialogWhenLarge_Base
+com.example.newproject.R$style: int Theme_Base_AppCompat_Light
+com.example.newproject.R$style: int Theme_Base_AppCompat_Light_DarkActionBar
+com.example.newproject.R$style: int Theme_Base_AppCompat_Light_DialogWhenLarge
+com.example.newproject.R$style: int Theme_Base_AppCompat_Light_DialogWhenLarge_Base
+com.example.newproject.R$style: int Theme_Base_Light
+com.example.newproject.R$style: int Widget_AppCompat_ActionBar
+com.example.newproject.R$style: int Widget_AppCompat_ActionBar_Solid
+com.example.newproject.R$style: int Widget_AppCompat_ActionBar_TabBar
+com.example.newproject.R$style: int Widget_AppCompat_ActionBar_TabText
+com.example.newproject.R$style: int Widget_AppCompat_ActionBar_TabView
+com.example.newproject.R$style: int Widget_AppCompat_ActionButton
+com.example.newproject.R$style: int Widget_AppCompat_ActionButton_CloseMode
+com.example.newproject.R$style: int Widget_AppCompat_ActionButton_Overflow
+com.example.newproject.R$style: int Widget_AppCompat_ActionMode
+com.example.newproject.R$style: int Widget_AppCompat_ActivityChooserView
+com.example.newproject.R$style: int Widget_AppCompat_AutoCompleteTextView
+com.example.newproject.R$style: int Widget_AppCompat_Base_ActionBar
+com.example.newproject.R$style: int Widget_AppCompat_Base_ActionBar_Solid
+com.example.newproject.R$style: int Widget_AppCompat_Base_ActionBar_TabBar
+com.example.newproject.R$style: int Widget_AppCompat_Base_ActionBar_TabText
+com.example.newproject.R$style: int Widget_AppCompat_Base_ActionBar_TabView
+com.example.newproject.R$style: int Widget_AppCompat_Base_ActionButton
+com.example.newproject.R$style: int Widget_AppCompat_Base_ActionButton_CloseMode
+com.example.newproject.R$style: int Widget_AppCompat_Base_ActionButton_Overflow
+com.example.newproject.R$style: int Widget_AppCompat_Base_ActionMode
+com.example.newproject.R$style: int Widget_AppCompat_Base_ActivityChooserView
+com.example.newproject.R$style: int Widget_AppCompat_Base_AutoCompleteTextView
+com.example.newproject.R$style: int Widget_AppCompat_Base_DropDownItem_Spinner
+com.example.newproject.R$style: int Widget_AppCompat_Base_ListPopupWindow
+com.example.newproject.R$style: int Widget_AppCompat_Base_ListView_DropDown
+com.example.newproject.R$style: int Widget_AppCompat_Base_ListView_Menu
+com.example.newproject.R$style: int Widget_AppCompat_Base_PopupMenu
+com.example.newproject.R$style: int Widget_AppCompat_Base_ProgressBar
+com.example.newproject.R$style: int Widget_AppCompat_Base_ProgressBar_Horizontal
+com.example.newproject.R$style: int Widget_AppCompat_Base_Spinner
+com.example.newproject.R$style: int Widget_AppCompat_DropDownItem_Spinner
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionBar
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionBar_Solid
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionBar_Solid_Inverse
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionBar_TabBar
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionBar_TabBar_Inverse
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionBar_TabText
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionBar_TabText_Inverse
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionBar_TabView
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionBar_TabView_Inverse
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionButton
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionButton_CloseMode
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionButton_Overflow
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActionMode_Inverse
+com.example.newproject.R$style: int Widget_AppCompat_Light_ActivityChooserView
+com.example.newproject.R$style: int Widget_AppCompat_Light_AutoCompleteTextView
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionBar
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid_Inverse
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar_Inverse
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText_Inverse
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView_Inverse
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionButton
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionButton_CloseMode
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionButton_Overflow
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActionMode_Inverse
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ActivityChooserView
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_AutoCompleteTextView
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_DropDownItem_Spinner
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ListPopupWindow
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_ListView_DropDown
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_PopupMenu
+com.example.newproject.R$style: int Widget_AppCompat_Light_Base_Spinner
+com.example.newproject.R$style: int Widget_AppCompat_Light_DropDownItem_Spinner
+com.example.newproject.R$style: int Widget_AppCompat_Light_ListPopupWindow
+com.example.newproject.R$style: int Widget_AppCompat_Light_ListView_DropDown
+com.example.newproject.R$style: int Widget_AppCompat_Light_PopupMenu
+com.example.newproject.R$style: int Widget_AppCompat_Light_Spinner_DropDown_ActionBar
+com.example.newproject.R$style: int Widget_AppCompat_ListPopupWindow
+com.example.newproject.R$style: int Widget_AppCompat_ListView_DropDown
+com.example.newproject.R$style: int Widget_AppCompat_ListView_Menu
+com.example.newproject.R$style: int Widget_AppCompat_PopupMenu
+com.example.newproject.R$style: int Widget_AppCompat_ProgressBar
+com.example.newproject.R$style: int Widget_AppCompat_ProgressBar_Horizontal
+com.example.newproject.R$style: int Widget_AppCompat_Spinner_DropDown_ActionBar
+com.example.newproject.R$style: int dialog_light
+com.example.newproject.R$styleable: int[] ActionBar
+com.example.newproject.R$styleable: int ActionBar_background
+com.example.newproject.R$styleable: int ActionBar_backgroundSplit
+com.example.newproject.R$styleable: int ActionBar_backgroundStacked
+com.example.newproject.R$styleable: int ActionBar_customNavigationLayout
+com.example.newproject.R$styleable: int ActionBar_displayOptions
+com.example.newproject.R$styleable: int ActionBar_divider
+com.example.newproject.R$styleable: int ActionBar_height
+com.example.newproject.R$styleable: int ActionBar_homeLayout
+com.example.newproject.R$styleable: int ActionBar_icon
+com.example.newproject.R$styleable: int ActionBar_indeterminateProgressStyle
+com.example.newproject.R$styleable: int ActionBar_itemPadding
+com.example.newproject.R$styleable: int ActionBar_logo
+com.example.newproject.R$styleable: int ActionBar_navigationMode
+com.example.newproject.R$styleable: int ActionBar_progressBarPadding
+com.example.newproject.R$styleable: int ActionBar_progressBarStyle
+com.example.newproject.R$styleable: int ActionBar_subtitle
+com.example.newproject.R$styleable: int ActionBar_subtitleTextStyle
+com.example.newproject.R$styleable: int ActionBar_title
+com.example.newproject.R$styleable: int ActionBar_titleTextStyle
+com.example.newproject.R$styleable: int[] ActionBarLayout
+com.example.newproject.R$styleable: int ActionBarLayout_android_layout_gravity
+com.example.newproject.R$styleable: int[] ActionBarWindow
+com.example.newproject.R$styleable: int ActionBarWindow_windowActionBar
+com.example.newproject.R$styleable: int ActionBarWindow_windowActionBarOverlay
+com.example.newproject.R$styleable: int ActionBarWindow_windowFixedHeightMajor
+com.example.newproject.R$styleable: int ActionBarWindow_windowFixedHeightMinor
+com.example.newproject.R$styleable: int ActionBarWindow_windowFixedWidthMajor
+com.example.newproject.R$styleable: int ActionBarWindow_windowFixedWidthMinor
+com.example.newproject.R$styleable: int ActionBarWindow_windowSplitActionBar
+com.example.newproject.R$styleable: int[] ActionMenuItemView
+com.example.newproject.R$styleable: int ActionMenuItemView_android_minWidth
+com.example.newproject.R$styleable: int[] ActionMenuView
+com.example.newproject.R$styleable: int[] ActionMode
+com.example.newproject.R$styleable: int ActionMode_background
+com.example.newproject.R$styleable: int ActionMode_backgroundSplit
+com.example.newproject.R$styleable: int ActionMode_height
+com.example.newproject.R$styleable: int ActionMode_subtitleTextStyle
+com.example.newproject.R$styleable: int ActionMode_titleTextStyle
+com.example.newproject.R$styleable: int[] ActivityChooserView
+com.example.newproject.R$styleable: int ActivityChooserView_expandActivityOverflowButtonDrawable
+com.example.newproject.R$styleable: int ActivityChooserView_initialActivityCount
+com.example.newproject.R$styleable: int[] CompatTextView
+com.example.newproject.R$styleable: int CompatTextView_textAllCaps
+com.example.newproject.R$styleable: int[] LinearLayoutICS
+com.example.newproject.R$styleable: int LinearLayoutICS_divider
+com.example.newproject.R$styleable: int LinearLayoutICS_dividerPadding
+com.example.newproject.R$styleable: int LinearLayoutICS_showDividers
+com.example.newproject.R$styleable: int[] MenuGroup
+com.example.newproject.R$styleable: int MenuGroup_android_checkableBehavior
+com.example.newproject.R$styleable: int MenuGroup_android_enabled
+com.example.newproject.R$styleable: int MenuGroup_android_id
+com.example.newproject.R$styleable: int MenuGroup_android_menuCategory
+com.example.newproject.R$styleable: int MenuGroup_android_orderInCategory
+com.example.newproject.R$styleable: int MenuGroup_android_visible
+com.example.newproject.R$styleable: int[] MenuItem
+com.example.newproject.R$styleable: int MenuItem_actionLayout
+com.example.newproject.R$styleable: int MenuItem_actionProviderClass
+com.example.newproject.R$styleable: int MenuItem_actionViewClass
+com.example.newproject.R$styleable: int MenuItem_android_alphabeticShortcut
+com.example.newproject.R$styleable: int MenuItem_android_checkable
+com.example.newproject.R$styleable: int MenuItem_android_checked
+com.example.newproject.R$styleable: int MenuItem_android_enabled
+com.example.newproject.R$styleable: int MenuItem_android_icon
+com.example.newproject.R$styleable: int MenuItem_android_id
+com.example.newproject.R$styleable: int MenuItem_android_menuCategory
+com.example.newproject.R$styleable: int MenuItem_android_numericShortcut
+com.example.newproject.R$styleable: int MenuItem_android_onClick
+com.example.newproject.R$styleable: int MenuItem_android_orderInCategory
+com.example.newproject.R$styleable: int MenuItem_android_title
+com.example.newproject.R$styleable: int MenuItem_android_titleCondensed
+com.example.newproject.R$styleable: int MenuItem_android_visible
+com.example.newproject.R$styleable: int MenuItem_showAsAction
+com.example.newproject.R$styleable: int[] MenuView
+com.example.newproject.R$styleable: int MenuView_android_headerBackground
+com.example.newproject.R$styleable: int MenuView_android_horizontalDivider
+com.example.newproject.R$styleable: int MenuView_android_itemBackground
+com.example.newproject.R$styleable: int MenuView_android_itemIconDisabledAlpha
+com.example.newproject.R$styleable: int MenuView_android_itemTextAppearance
+com.example.newproject.R$styleable: int MenuView_android_preserveIconSpacing
+com.example.newproject.R$styleable: int MenuView_android_verticalDivider
+com.example.newproject.R$styleable: int MenuView_android_windowAnimationStyle
+com.example.newproject.R$styleable: int[] SearchView
+com.example.newproject.R$styleable: int SearchView_android_imeOptions
+com.example.newproject.R$styleable: int SearchView_android_inputType
+com.example.newproject.R$styleable: int SearchView_android_maxWidth
+com.example.newproject.R$styleable: int SearchView_iconifiedByDefault
+com.example.newproject.R$styleable: int SearchView_queryHint
+com.example.newproject.R$styleable: int[] Spinner
+com.example.newproject.R$styleable: int Spinner_android_dropDownHorizontalOffset
+com.example.newproject.R$styleable: int Spinner_android_dropDownSelector
+com.example.newproject.R$styleable: int Spinner_android_dropDownVerticalOffset
+com.example.newproject.R$styleable: int Spinner_android_dropDownWidth
+com.example.newproject.R$styleable: int Spinner_android_gravity
+com.example.newproject.R$styleable: int Spinner_android_popupBackground
+com.example.newproject.R$styleable: int Spinner_disableChildrenWhenDisabled
+com.example.newproject.R$styleable: int Spinner_popupPromptView
+com.example.newproject.R$styleable: int Spinner_prompt
+com.example.newproject.R$styleable: int Spinner_spinnerMode
+com.example.newproject.R$styleable: int[] Theme
+com.example.newproject.R$styleable: int Theme_actionDropDownStyle
+com.example.newproject.R$styleable: int Theme_dropdownListPreferredItemHeight
+com.example.newproject.R$styleable: int Theme_listChoiceBackgroundIndicator
+com.example.newproject.R$styleable: int Theme_panelMenuListTheme
+com.example.newproject.R$styleable: int Theme_panelMenuListWidth
+com.example.newproject.R$styleable: int Theme_popupMenuStyle
+com.example.newproject.R$styleable: int[] View
+com.example.newproject.R$styleable: int View_android_focusable
+com.example.newproject.R$styleable: int View_paddingEnd
+com.example.newproject.R$styleable: int View_paddingStart
+com.example.newproject.R$xml: int searchable
+com.example.newproject.R$xml: int user_settings
+com.google.protobuf.DescriptorProtos$FieldDescriptorProto$Label: com.google.protobuf.DescriptorProtos$FieldDescriptorProto$Label[] values()
+com.google.protobuf.DescriptorProtos$FieldDescriptorProto$Label: com.google.protobuf.DescriptorProtos$FieldDescriptorProto$Label valueOf(java.lang.String)
+com.google.protobuf.DescriptorProtos$FieldDescriptorProto$Type: com.google.protobuf.DescriptorProtos$FieldDescriptorProto$Type[] values()
+com.google.protobuf.DescriptorProtos$FieldDescriptorProto$Type: com.google.protobuf.DescriptorProtos$FieldDescriptorProto$Type valueOf(java.lang.String)
+com.google.protobuf.DescriptorProtos$FieldOptions$CType: com.google.protobuf.DescriptorProtos$FieldOptions$CType[] values()
+com.google.protobuf.DescriptorProtos$FieldOptions$CType: com.google.protobuf.DescriptorProtos$FieldOptions$CType valueOf(java.lang.String)
+com.google.protobuf.DescriptorProtos$FileOptions$OptimizeMode: com.google.protobuf.DescriptorProtos$FileOptions$OptimizeMode[] values()
+com.google.protobuf.DescriptorProtos$FileOptions$OptimizeMode: com.google.protobuf.DescriptorProtos$FileOptions$OptimizeMode valueOf(java.lang.String)
+com.google.protobuf.Descriptors$FieldDescriptor$JavaType: com.google.protobuf.Descriptors$FieldDescriptor$JavaType[] values()
+com.google.protobuf.Descriptors$FieldDescriptor$JavaType: com.google.protobuf.Descriptors$FieldDescriptor$JavaType valueOf(java.lang.String)
+com.google.protobuf.Descriptors$FieldDescriptor$Type: com.google.protobuf.Descriptors$FieldDescriptor$Type[] values()
+com.google.protobuf.Descriptors$FieldDescriptor$Type: com.google.protobuf.Descriptors$FieldDescriptor$Type valueOf(java.lang.String)
+com.google.protobuf.WireFormat$FieldType: com.google.protobuf.WireFormat$FieldType[] values()
+com.google.protobuf.WireFormat$FieldType: com.google.protobuf.WireFormat$FieldType valueOf(java.lang.String)
+com.google.protobuf.WireFormat$JavaType: com.google.protobuf.WireFormat$JavaType[] values()
+com.google.protobuf.WireFormat$JavaType: com.google.protobuf.WireFormat$JavaType valueOf(java.lang.String)
+org.apache.commons.codec.BinaryDecoder
+org.apache.commons.codec.BinaryEncoder
+org.apache.commons.codec.CharEncoding
+org.apache.commons.codec.Decoder
+org.apache.commons.codec.DecoderException
+org.apache.commons.codec.Encoder
+org.apache.commons.codec.EncoderException
+org.apache.commons.codec.StringDecoder
+org.apache.commons.codec.StringEncoder
+org.apache.commons.codec.StringEncoderComparator
+org.apache.commons.codec.binary.Base32
+org.apache.commons.codec.binary.Base32InputStream
+org.apache.commons.codec.binary.Base32OutputStream
+org.apache.commons.codec.binary.Base64
+org.apache.commons.codec.binary.Base64InputStream
+org.apache.commons.codec.binary.Base64OutputStream
+org.apache.commons.codec.binary.BaseNCodec
+org.apache.commons.codec.binary.BaseNCodecInputStream
+org.apache.commons.codec.binary.BaseNCodecOutputStream
+org.apache.commons.codec.binary.BinaryCodec
+org.apache.commons.codec.binary.Hex
+org.apache.commons.codec.binary.StringUtils
+org.apache.commons.codec.digest.DigestUtils
+org.apache.commons.codec.language.AbstractCaverphone
+org.apache.commons.codec.language.Caverphone
+org.apache.commons.codec.language.Caverphone1
+org.apache.commons.codec.language.Caverphone2
+org.apache.commons.codec.language.ColognePhonetic
+org.apache.commons.codec.language.ColognePhonetic$CologneBuffer
+org.apache.commons.codec.language.ColognePhonetic$CologneInputBuffer
+org.apache.commons.codec.language.ColognePhonetic$CologneOutputBuffer
+org.apache.commons.codec.language.DoubleMetaphone
+org.apache.commons.codec.language.DoubleMetaphone$DoubleMetaphoneResult
+org.apache.commons.codec.language.Metaphone
+org.apache.commons.codec.language.RefinedSoundex
+org.apache.commons.codec.language.Soundex
+org.apache.commons.codec.language.SoundexUtils
+org.apache.commons.codec.language.bm.BeiderMorseEncoder
+org.apache.commons.codec.language.bm.Lang
+org.apache.commons.codec.language.bm.Lang$1
+org.apache.commons.codec.language.bm.Lang$LangRule
+org.apache.commons.codec.language.bm.Languages
+org.apache.commons.codec.language.bm.Languages$1
+org.apache.commons.codec.language.bm.Languages$2
+org.apache.commons.codec.language.bm.Languages$LanguageSet
+org.apache.commons.codec.language.bm.Languages$SomeLanguages
+org.apache.commons.codec.language.bm.NameType
+org.apache.commons.codec.language.bm.NameType: org.apache.commons.codec.language.bm.NameType[] values()
+org.apache.commons.codec.language.bm.NameType: org.apache.commons.codec.language.bm.NameType valueOf(java.lang.String)
+org.apache.commons.codec.language.bm.PhoneticEngine
+org.apache.commons.codec.language.bm.PhoneticEngine$1
+org.apache.commons.codec.language.bm.PhoneticEngine$2
+org.apache.commons.codec.language.bm.PhoneticEngine$PhonemeBuilder
+org.apache.commons.codec.language.bm.PhoneticEngine$RulesApplication
+org.apache.commons.codec.language.bm.ResourceConstants
+org.apache.commons.codec.language.bm.Rule
+org.apache.commons.codec.language.bm.Rule$1
+org.apache.commons.codec.language.bm.Rule$10
+org.apache.commons.codec.language.bm.Rule$2
+org.apache.commons.codec.language.bm.Rule$3
+org.apache.commons.codec.language.bm.Rule$4
+org.apache.commons.codec.language.bm.Rule$5
+org.apache.commons.codec.language.bm.Rule$6
+org.apache.commons.codec.language.bm.Rule$7
+org.apache.commons.codec.language.bm.Rule$8
+org.apache.commons.codec.language.bm.Rule$9
+org.apache.commons.codec.language.bm.Rule$Phoneme
+org.apache.commons.codec.language.bm.Rule$Phoneme$1
+org.apache.commons.codec.language.bm.Rule$PhonemeExpr
+org.apache.commons.codec.language.bm.Rule$PhonemeList
+org.apache.commons.codec.language.bm.Rule$RPattern
+org.apache.commons.codec.language.bm.RuleType
+org.apache.commons.codec.language.bm.RuleType: org.apache.commons.codec.language.bm.RuleType[] values()
+org.apache.commons.codec.language.bm.RuleType: org.apache.commons.codec.language.bm.RuleType valueOf(java.lang.String)
+org.apache.commons.codec.net.BCodec
+org.apache.commons.codec.net.QCodec
+org.apache.commons.codec.net.QuotedPrintableCodec
+org.apache.commons.codec.net.RFC1522Codec
+org.apache.commons.codec.net.URLCodec
+org.apache.commons.codec.net.Utils
+org.apache.commons.logging.Log
+org.apache.commons.logging.LogConfigurationException
+org.apache.commons.logging.LogFactory
+org.apache.commons.logging.LogFactory$1
+org.apache.commons.logging.LogFactory$2
+org.apache.commons.logging.LogFactory$3
+org.apache.commons.logging.LogFactory$4
+org.apache.commons.logging.LogFactory$5
+org.apache.commons.logging.LogFactory$6
+org.apache.commons.logging.LogSource
+org.apache.commons.logging.impl.AvalonLogger
+org.apache.commons.logging.impl.Jdk13LumberjackLogger
+org.apache.commons.logging.impl.Jdk14Logger
+org.apache.commons.logging.impl.Log4JLogger
+org.apache.commons.logging.impl.LogFactoryImpl
+org.apache.commons.logging.impl.LogFactoryImpl$1
+org.apache.commons.logging.impl.LogFactoryImpl$2
+org.apache.commons.logging.impl.LogFactoryImpl$3
+org.apache.commons.logging.impl.LogKitLogger
+org.apache.commons.logging.impl.NoOpLog
+org.apache.commons.logging.impl.ServletContextCleaner
+org.apache.commons.logging.impl.SimpleLog
+org.apache.commons.logging.impl.SimpleLog$1
+org.apache.commons.logging.impl.WeakHashtable
+org.apache.commons.logging.impl.WeakHashtable$1
+org.apache.commons.logging.impl.WeakHashtable$Entry
+org.apache.commons.logging.impl.WeakHashtable$Referenced
+org.apache.commons.logging.impl.WeakHashtable$WeakKey
+org.apache.http.ConnectionClosedException
+org.apache.http.ConnectionReuseStrategy
+org.apache.http.Consts
+org.apache.http.ContentTooLongException
+org.apache.http.FormattedHeader
+org.apache.http.Header
+org.apache.http.HeaderElement
+org.apache.http.HeaderElementIterator
+org.apache.http.HeaderIterator
+org.apache.http.HttpClientConnection
+org.apache.http.HttpConnection
+org.apache.http.HttpConnectionMetrics
+org.apache.http.HttpEntity
+org.apache.http.HttpEntityEnclosingRequest
+org.apache.http.HttpException
+org.apache.http.HttpHeaders
+org.apache.http.HttpHost
+org.apache.http.HttpInetConnection
+org.apache.http.HttpMessage
+org.apache.http.HttpRequest
+org.apache.http.HttpRequestFactory
+org.apache.http.HttpRequestInterceptor
+org.apache.http.HttpResponse
+org.apache.http.HttpResponseFactory
+org.apache.http.HttpResponseInterceptor
+org.apache.http.HttpServerConnection
+org.apache.http.HttpStatus
+org.apache.http.HttpVersion
+org.apache.http.MalformedChunkCodingException
+org.apache.http.MethodNotSupportedException
+org.apache.http.NameValuePair
+org.apache.http.NoHttpResponseException
+org.apache.http.ParseException
+org.apache.http.ProtocolException
+org.apache.http.ProtocolVersion
+org.apache.http.ReasonPhraseCatalog
+org.apache.http.RequestLine
+org.apache.http.StatusLine
+org.apache.http.TokenIterator
+org.apache.http.TruncatedChunkException
+org.apache.http.UnsupportedHttpVersionException
+org.apache.http.annotation.GuardedBy
+org.apache.http.annotation.Immutable
+org.apache.http.annotation.NotThreadSafe
+org.apache.http.annotation.ThreadSafe
+org.apache.http.auth.AUTH
+org.apache.http.auth.AuthOption
+org.apache.http.auth.AuthProtocolState
+org.apache.http.auth.AuthProtocolState: org.apache.http.auth.AuthProtocolState[] values()
+org.apache.http.auth.AuthProtocolState: org.apache.http.auth.AuthProtocolState valueOf(java.lang.String)
+org.apache.http.auth.AuthScheme
+org.apache.http.auth.AuthSchemeFactory
+org.apache.http.auth.AuthSchemeRegistry
+org.apache.http.auth.AuthScope
+org.apache.http.auth.AuthState
+org.apache.http.auth.AuthenticationException
+org.apache.http.auth.BasicUserPrincipal
+org.apache.http.auth.ChallengeState
+org.apache.http.auth.ChallengeState: org.apache.http.auth.ChallengeState[] values()
+org.apache.http.auth.ChallengeState: org.apache.http.auth.ChallengeState valueOf(java.lang.String)
+org.apache.http.auth.ContextAwareAuthScheme
+org.apache.http.auth.Credentials
+org.apache.http.auth.InvalidCredentialsException
+org.apache.http.auth.MalformedChallengeException
+org.apache.http.auth.NTCredentials
+org.apache.http.auth.NTUserPrincipal
+org.apache.http.auth.UsernamePasswordCredentials
+org.apache.http.auth.params.AuthPNames
+org.apache.http.auth.params.AuthParamBean
+org.apache.http.auth.params.AuthParams
+org.apache.http.client.AuthCache
+org.apache.http.client.AuthenticationHandler
+org.apache.http.client.AuthenticationStrategy
+org.apache.http.client.BackoffManager
+org.apache.http.client.CircularRedirectException
+org.apache.http.client.ClientProtocolException
+org.apache.http.client.ConnectionBackoffStrategy
+org.apache.http.client.CookieStore
+org.apache.http.client.CredentialsProvider
+org.apache.http.client.HttpClient
+org.apache.http.client.HttpRequestRetryHandler
+org.apache.http.client.HttpResponseException
+org.apache.http.client.NonRepeatableRequestException
+org.apache.http.client.RedirectException
+org.apache.http.client.RedirectHandler
+org.apache.http.client.RedirectStrategy
+org.apache.http.client.RequestDirector
+org.apache.http.client.ResponseHandler
+org.apache.http.client.ServiceUnavailableRetryStrategy
+org.apache.http.client.UserTokenHandler
+org.apache.http.client.cache.CacheResponseStatus
+org.apache.http.client.cache.CacheResponseStatus: org.apache.http.client.cache.CacheResponseStatus[] values()
+org.apache.http.client.cache.CacheResponseStatus: org.apache.http.client.cache.CacheResponseStatus valueOf(java.lang.String)
+org.apache.http.client.cache.HeaderConstants
+org.apache.http.client.cache.HttpCacheEntry
+org.apache.http.client.cache.HttpCacheEntrySerializationException
+org.apache.http.client.cache.HttpCacheEntrySerializer
+org.apache.http.client.cache.HttpCacheStorage
+org.apache.http.client.cache.HttpCacheUpdateCallback
+org.apache.http.client.cache.HttpCacheUpdateException
+org.apache.http.client.cache.InputLimit
+org.apache.http.client.cache.Resource
+org.apache.http.client.cache.ResourceFactory
+org.apache.http.client.entity.DecompressingEntity
+org.apache.http.client.entity.DeflateDecompressingEntity
+org.apache.http.client.entity.GzipDecompressingEntity
+org.apache.http.client.entity.UrlEncodedFormEntity
+org.apache.http.client.fluent.Async
+org.apache.http.client.fluent.Async$ExecRunnable
+org.apache.http.client.fluent.Content
+org.apache.http.client.fluent.ContentResponseHandler
+org.apache.http.client.fluent.Executor
+org.apache.http.client.fluent.Form
+org.apache.http.client.fluent.HttpHeader
+org.apache.http.client.fluent.Request
+org.apache.http.client.fluent.Response
+org.apache.http.client.methods.AbortableHttpRequest
+org.apache.http.client.methods.HttpDelete
+org.apache.http.client.methods.HttpEntityEnclosingRequestBase
+org.apache.http.client.methods.HttpGet
+org.apache.http.client.methods.HttpHead
+org.apache.http.client.methods.HttpOptions
+org.apache.http.client.methods.HttpPatch
+org.apache.http.client.methods.HttpPost
+org.apache.http.client.methods.HttpPut
+org.apache.http.client.methods.HttpRequestBase
+org.apache.http.client.methods.HttpTrace
+org.apache.http.client.methods.HttpUriRequest
+org.apache.http.client.params.AllClientPNames
+org.apache.http.client.params.AuthPolicy
+org.apache.http.client.params.ClientPNames
+org.apache.http.client.params.ClientParamBean
+org.apache.http.client.params.CookiePolicy
+org.apache.http.client.params.HttpClientParams
+org.apache.http.client.protocol.ClientContext
+org.apache.http.client.protocol.ClientContextConfigurer
+org.apache.http.client.protocol.RequestAcceptEncoding
+org.apache.http.client.protocol.RequestAddCookies
+org.apache.http.client.protocol.RequestAuthCache
+org.apache.http.client.protocol.RequestAuthenticationBase
+org.apache.http.client.protocol.RequestAuthenticationBase$1
+org.apache.http.client.protocol.RequestClientConnControl
+org.apache.http.client.protocol.RequestDefaultHeaders
+org.apache.http.client.protocol.RequestProxyAuthentication
+org.apache.http.client.protocol.RequestTargetAuthentication
+org.apache.http.client.protocol.ResponseAuthCache
+org.apache.http.client.protocol.ResponseAuthCache$1
+org.apache.http.client.protocol.ResponseContentEncoding
+org.apache.http.client.protocol.ResponseProcessCookies
+org.apache.http.client.utils.CloneUtils
+org.apache.http.client.utils.HttpClientUtils
+org.apache.http.client.utils.Idn
+org.apache.http.client.utils.JdkIdn
+org.apache.http.client.utils.Punycode
+org.apache.http.client.utils.Rfc3492Idn
+org.apache.http.client.utils.URIBuilder
+org.apache.http.client.utils.URIUtils
+org.apache.http.client.utils.URLEncodedUtils
+org.apache.http.concurrent.BasicFuture
+org.apache.http.concurrent.Cancellable
+org.apache.http.concurrent.FutureCallback
+org.apache.http.conn.BasicEofSensorWatcher
+org.apache.http.conn.BasicManagedEntity
+org.apache.http.conn.ClientConnectionManager
+org.apache.http.conn.ClientConnectionManagerFactory
+org.apache.http.conn.ClientConnectionOperator
+org.apache.http.conn.ClientConnectionRequest
+org.apache.http.conn.ConnectTimeoutException
+org.apache.http.conn.ConnectionKeepAliveStrategy
+org.apache.http.conn.ConnectionPoolTimeoutException
+org.apache.http.conn.ConnectionReleaseTrigger
+org.apache.http.conn.DnsResolver
+org.apache.http.conn.EofSensorInputStream
+org.apache.http.conn.EofSensorWatcher
+org.apache.http.conn.HttpHostConnectException
+org.apache.http.conn.HttpInetSocketAddress
+org.apache.http.conn.HttpRoutedConnection
+org.apache.http.conn.ManagedClientConnection
+org.apache.http.conn.MultihomePlainSocketFactory
+org.apache.http.conn.OperatedClientConnection
+org.apache.http.conn.params.ConnConnectionPNames
+org.apache.http.conn.params.ConnConnectionParamBean
+org.apache.http.conn.params.ConnManagerPNames
+org.apache.http.conn.params.ConnManagerParamBean
+org.apache.http.conn.params.ConnManagerParams
+org.apache.http.conn.params.ConnManagerParams$1
+org.apache.http.conn.params.ConnPerRoute
+org.apache.http.conn.params.ConnPerRouteBean
+org.apache.http.conn.params.ConnRoutePNames
+org.apache.http.conn.params.ConnRouteParamBean
+org.apache.http.conn.params.ConnRouteParams
+org.apache.http.conn.routing.BasicRouteDirector
+org.apache.http.conn.routing.HttpRoute
+org.apache.http.conn.routing.HttpRouteDirector
+org.apache.http.conn.routing.HttpRoutePlanner
+org.apache.http.conn.routing.RouteInfo
+org.apache.http.conn.routing.RouteInfo$LayerType
+org.apache.http.conn.routing.RouteInfo$LayerType: org.apache.http.conn.routing.RouteInfo$LayerType[] values()
+org.apache.http.conn.routing.RouteInfo$LayerType: org.apache.http.conn.routing.RouteInfo$LayerType valueOf(java.lang.String)
+org.apache.http.conn.routing.RouteInfo$TunnelType
+org.apache.http.conn.routing.RouteInfo$TunnelType: org.apache.http.conn.routing.RouteInfo$TunnelType[] values()
+org.apache.http.conn.routing.RouteInfo$TunnelType: org.apache.http.conn.routing.RouteInfo$TunnelType valueOf(java.lang.String)
+org.apache.http.conn.routing.RouteTracker
+org.apache.http.conn.scheme.HostNameResolver
+org.apache.http.conn.scheme.LayeredSchemeSocketFactory
+org.apache.http.conn.scheme.LayeredSocketFactory
+org.apache.http.conn.scheme.LayeredSocketFactoryAdaptor
+org.apache.http.conn.scheme.PlainSocketFactory
+org.apache.http.conn.scheme.Scheme
+org.apache.http.conn.scheme.SchemeLayeredSocketFactory
+org.apache.http.conn.scheme.SchemeLayeredSocketFactoryAdaptor
+org.apache.http.conn.scheme.SchemeLayeredSocketFactoryAdaptor2
+org.apache.http.conn.scheme.SchemeRegistry
+org.apache.http.conn.scheme.SchemeSocketFactory
+org.apache.http.conn.scheme.SchemeSocketFactoryAdaptor
+org.apache.http.conn.scheme.SocketFactory
+org.apache.http.conn.scheme.SocketFactoryAdaptor
+org.apache.http.conn.ssl.AbstractVerifier
+org.apache.http.conn.ssl.AllowAllHostnameVerifier
+org.apache.http.conn.ssl.BrowserCompatHostnameVerifier
+org.apache.http.conn.ssl.SSLInitializationException
+org.apache.http.conn.ssl.SSLSocketFactory
+org.apache.http.conn.ssl.StrictHostnameVerifier
+org.apache.http.conn.ssl.TrustManagerDecorator
+org.apache.http.conn.ssl.TrustSelfSignedStrategy
+org.apache.http.conn.ssl.TrustStrategy
+org.apache.http.conn.ssl.X509HostnameVerifier
+org.apache.http.conn.util.InetAddressUtils
+org.apache.http.cookie.ClientCookie
+org.apache.http.cookie.Cookie
+org.apache.http.cookie.CookieAttributeHandler
+org.apache.http.cookie.CookieIdentityComparator
+org.apache.http.cookie.CookieOrigin
+org.apache.http.cookie.CookiePathComparator
+org.apache.http.cookie.CookieRestrictionViolationException
+org.apache.http.cookie.CookieSpec
+org.apache.http.cookie.CookieSpecFactory
+org.apache.http.cookie.CookieSpecRegistry
+org.apache.http.cookie.MalformedCookieException
+org.apache.http.cookie.SM
+org.apache.http.cookie.SetCookie
+org.apache.http.cookie.SetCookie2
+org.apache.http.cookie.params.CookieSpecPNames
+org.apache.http.cookie.params.CookieSpecParamBean
+org.apache.http.entity.AbstractHttpEntity
+org.apache.http.entity.BasicHttpEntity
+org.apache.http.entity.BufferedHttpEntity
+org.apache.http.entity.ByteArrayEntity
+org.apache.http.entity.ContentLengthStrategy
+org.apache.http.entity.ContentProducer
+org.apache.http.entity.ContentType
+org.apache.http.entity.EntityTemplate
+org.apache.http.entity.FileEntity
+org.apache.http.entity.HttpEntityWrapper
+org.apache.http.entity.InputStreamEntity
+org.apache.http.entity.SerializableEntity
+org.apache.http.entity.StringEntity
+org.apache.http.entity.mime.FormBodyPart
+org.apache.http.entity.mime.Header
+org.apache.http.entity.mime.HttpMultipart
+org.apache.http.entity.mime.HttpMultipart$1
+org.apache.http.entity.mime.HttpMultipartMode
+org.apache.http.entity.mime.HttpMultipartMode: org.apache.http.entity.mime.HttpMultipartMode[] values()
+org.apache.http.entity.mime.HttpMultipartMode: org.apache.http.entity.mime.HttpMultipartMode valueOf(java.lang.String)
+org.apache.http.entity.mime.MIME
+org.apache.http.entity.mime.MinimalField
+org.apache.http.entity.mime.MultipartEntity
+org.apache.http.entity.mime.content.AbstractContentBody
+org.apache.http.entity.mime.content.ByteArrayBody
+org.apache.http.entity.mime.content.ContentBody
+org.apache.http.entity.mime.content.ContentDescriptor
+org.apache.http.entity.mime.content.FileBody
+org.apache.http.entity.mime.content.InputStreamBody
+org.apache.http.entity.mime.content.StringBody
+org.apache.http.impl.AbstractHttpClientConnection
+org.apache.http.impl.AbstractHttpServerConnection
+org.apache.http.impl.DefaultConnectionReuseStrategy
+org.apache.http.impl.DefaultHttpClientConnection
+org.apache.http.impl.DefaultHttpRequestFactory
+org.apache.http.impl.DefaultHttpResponseFactory
+org.apache.http.impl.DefaultHttpServerConnection
+org.apache.http.impl.EnglishReasonPhraseCatalog
+org.apache.http.impl.HttpConnectionMetricsImpl
+org.apache.http.impl.NoConnectionReuseStrategy
+org.apache.http.impl.SocketHttpClientConnection
+org.apache.http.impl.SocketHttpServerConnection
+org.apache.http.impl.auth.AuthSchemeBase
+org.apache.http.impl.auth.BasicScheme
+org.apache.http.impl.auth.BasicSchemeFactory
+org.apache.http.impl.auth.DigestScheme
+org.apache.http.impl.auth.DigestSchemeFactory
+org.apache.http.impl.auth.GGSSchemeBase
+org.apache.http.impl.auth.GGSSchemeBase$1
+org.apache.http.impl.auth.GGSSchemeBase$State
+org.apache.http.impl.auth.GGSSchemeBase$State: org.apache.http.impl.auth.GGSSchemeBase$State[] values()
+org.apache.http.impl.auth.GGSSchemeBase$State: org.apache.http.impl.auth.GGSSchemeBase$State valueOf(java.lang.String)
+org.apache.http.impl.auth.HttpEntityDigester
+org.apache.http.impl.auth.KerberosScheme
+org.apache.http.impl.auth.KerberosSchemeFactory
+org.apache.http.impl.auth.NTLMEngine
+org.apache.http.impl.auth.NTLMEngineException
+org.apache.http.impl.auth.NTLMEngineImpl
+org.apache.http.impl.auth.NTLMEngineImpl$HMACMD5
+org.apache.http.impl.auth.NTLMEngineImpl$MD4
+org.apache.http.impl.auth.NTLMEngineImpl$NTLMMessage
+org.apache.http.impl.auth.NTLMEngineImpl$Type1Message
+org.apache.http.impl.auth.NTLMEngineImpl$Type2Message
+org.apache.http.impl.auth.NTLMEngineImpl$Type3Message
+org.apache.http.impl.auth.NTLMScheme
+org.apache.http.impl.auth.NTLMScheme$State
+org.apache.http.impl.auth.NTLMScheme$State: org.apache.http.impl.auth.NTLMScheme$State[] values()
+org.apache.http.impl.auth.NTLMScheme$State: org.apache.http.impl.auth.NTLMScheme$State valueOf(java.lang.String)
+org.apache.http.impl.auth.NTLMSchemeFactory
+org.apache.http.impl.auth.NegotiateScheme
+org.apache.http.impl.auth.NegotiateSchemeFactory
+org.apache.http.impl.auth.RFC2617Scheme
+org.apache.http.impl.auth.SPNegoScheme
+org.apache.http.impl.auth.SPNegoSchemeFactory
+org.apache.http.impl.auth.SpnegoTokenGenerator
+org.apache.http.impl.auth.UnsupportedDigestAlgorithmException
+org.apache.http.impl.client.AIMDBackoffManager
+org.apache.http.impl.client.AbstractAuthenticationHandler
+org.apache.http.impl.client.AbstractHttpClient
+org.apache.http.impl.client.AuthenticationStrategyAdaptor
+org.apache.http.impl.client.AuthenticationStrategyImpl
+org.apache.http.impl.client.AutoRetryHttpClient
+org.apache.http.impl.client.BasicAuthCache
+org.apache.http.impl.client.BasicCookieStore
+org.apache.http.impl.client.BasicCredentialsProvider
+org.apache.http.impl.client.BasicResponseHandler
+org.apache.http.impl.client.ClientParamsStack
+org.apache.http.impl.client.Clock
+org.apache.http.impl.client.ContentEncodingHttpClient
+org.apache.http.impl.client.DecompressingHttpClient
+org.apache.http.impl.client.DefaultBackoffStrategy
+org.apache.http.impl.client.DefaultConnectionKeepAliveStrategy
+org.apache.http.impl.client.DefaultHttpClient
+org.apache.http.impl.client.DefaultHttpRequestRetryHandler
+org.apache.http.impl.client.DefaultProxyAuthenticationHandler
+org.apache.http.impl.client.DefaultRedirectHandler
+org.apache.http.impl.client.DefaultRedirectStrategy
+org.apache.http.impl.client.DefaultRedirectStrategyAdaptor
+org.apache.http.impl.client.DefaultRequestDirector
+org.apache.http.impl.client.DefaultServiceUnavailableRetryStrategy
+org.apache.http.impl.client.DefaultTargetAuthenticationHandler
+org.apache.http.impl.client.DefaultUserTokenHandler
+org.apache.http.impl.client.EntityEnclosingRequestWrapper
+org.apache.http.impl.client.EntityEnclosingRequestWrapper$EntityWrapper
+org.apache.http.impl.client.HttpAuthenticator
+org.apache.http.impl.client.HttpAuthenticator$1
+org.apache.http.impl.client.LaxRedirectStrategy
+org.apache.http.impl.client.NullBackoffStrategy
+org.apache.http.impl.client.ProxyAuthenticationStrategy
+org.apache.http.impl.client.ProxyClient
+org.apache.http.impl.client.ProxyClient$ProxyConnection
+org.apache.http.impl.client.RedirectLocations
+org.apache.http.impl.client.RequestWrapper
+org.apache.http.impl.client.RoutedRequest
+org.apache.http.impl.client.StandardHttpRequestRetryHandler
+org.apache.http.impl.client.SystemClock
+org.apache.http.impl.client.SystemDefaultHttpClient
+org.apache.http.impl.client.TargetAuthenticationStrategy
+org.apache.http.impl.client.TunnelRefusedException
+org.apache.http.impl.client.cache.AsynchronousValidationRequest
+org.apache.http.impl.client.cache.AsynchronousValidator
+org.apache.http.impl.client.cache.BasicHttpCache
+org.apache.http.impl.client.cache.BasicHttpCache$1
+org.apache.http.impl.client.cache.BasicHttpCache$2
+org.apache.http.impl.client.cache.BasicHttpCacheStorage
+org.apache.http.impl.client.cache.BasicIdGenerator
+org.apache.http.impl.client.cache.CacheConfig
+org.apache.http.impl.client.cache.CacheEntity
+org.apache.http.impl.client.cache.CacheEntryUpdater
+org.apache.http.impl.client.cache.CacheInvalidator
+org.apache.http.impl.client.cache.CacheKeyGenerator
+org.apache.http.impl.client.cache.CacheMap
+org.apache.http.impl.client.cache.CacheValidityPolicy
+org.apache.http.impl.client.cache.CacheableRequestPolicy
+org.apache.http.impl.client.cache.CachedHttpResponseGenerator
+org.apache.http.impl.client.cache.CachedResponseSuitabilityChecker
+org.apache.http.impl.client.cache.CachingHttpClient
+org.apache.http.impl.client.cache.CombinedEntity
+org.apache.http.impl.client.cache.CombinedEntity$ResourceStream
+org.apache.http.impl.client.cache.ConditionalRequestBuilder
+org.apache.http.impl.client.cache.DefaultHttpCacheEntrySerializer
+org.apache.http.impl.client.cache.FileResource
+org.apache.http.impl.client.cache.FileResourceFactory
+org.apache.http.impl.client.cache.HeapResource
+org.apache.http.impl.client.cache.HeapResourceFactory
+org.apache.http.impl.client.cache.HttpCache
+org.apache.http.impl.client.cache.IOUtils
+org.apache.http.impl.client.cache.ManagedHttpCacheStorage
+org.apache.http.impl.client.cache.OptionsHttp11Response
+org.apache.http.impl.client.cache.RequestProtocolCompliance
+org.apache.http.impl.client.cache.RequestProtocolCompliance$1
+org.apache.http.impl.client.cache.RequestProtocolError
+org.apache.http.impl.client.cache.RequestProtocolError: org.apache.http.impl.client.cache.RequestProtocolError[] values()
+org.apache.http.impl.client.cache.RequestProtocolError: org.apache.http.impl.client.cache.RequestProtocolError valueOf(java.lang.String)
+org.apache.http.impl.client.cache.ResourceReference
+org.apache.http.impl.client.cache.ResponseCachingPolicy
+org.apache.http.impl.client.cache.ResponseProtocolCompliance
+org.apache.http.impl.client.cache.SizeLimitedResponseReader
+org.apache.http.impl.client.cache.Variant
+org.apache.http.impl.client.cache.WarningValue
+org.apache.http.impl.client.cache.ehcache.EhcacheHttpCacheStorage
+org.apache.http.impl.client.cache.memcached.KeyHashingScheme
+org.apache.http.impl.client.cache.memcached.MemcachedCacheEntry
+org.apache.http.impl.client.cache.memcached.MemcachedCacheEntryFactory
+org.apache.http.impl.client.cache.memcached.MemcachedCacheEntryFactoryImpl
+org.apache.http.impl.client.cache.memcached.MemcachedCacheEntryImpl
+org.apache.http.impl.client.cache.memcached.MemcachedHttpCacheStorage
+org.apache.http.impl.client.cache.memcached.MemcachedKeyHashingException
+org.apache.http.impl.client.cache.memcached.MemcachedOperationTimeoutException
+org.apache.http.impl.client.cache.memcached.MemcachedSerializationException
+org.apache.http.impl.client.cache.memcached.PrefixKeyHashingScheme
+org.apache.http.impl.client.cache.memcached.SHA256KeyHashingScheme
+org.apache.http.impl.conn.AbstractClientConnAdapter
+org.apache.http.impl.conn.AbstractPoolEntry
+org.apache.http.impl.conn.AbstractPooledConnAdapter
+org.apache.http.impl.conn.BasicClientConnectionManager
+org.apache.http.impl.conn.BasicClientConnectionManager$1
+org.apache.http.impl.conn.ConnectionShutdownException
+org.apache.http.impl.conn.DefaultClientConnection
+org.apache.http.impl.conn.DefaultClientConnectionOperator
+org.apache.http.impl.conn.DefaultHttpResponseParser
+org.apache.http.impl.conn.DefaultHttpRoutePlanner
+org.apache.http.impl.conn.DefaultResponseParser
+org.apache.http.impl.conn.HttpConnPool
+org.apache.http.impl.conn.HttpConnPool$InternalConnFactory
+org.apache.http.impl.conn.HttpPoolEntry
+org.apache.http.impl.conn.IdleConnectionHandler
+org.apache.http.impl.conn.IdleConnectionHandler$TimeValues
+org.apache.http.impl.conn.InMemoryDnsResolver
+org.apache.http.impl.conn.LoggingSessionInputBuffer
+org.apache.http.impl.conn.LoggingSessionOutputBuffer
+org.apache.http.impl.conn.ManagedClientConnectionImpl
+org.apache.http.impl.conn.PoolingClientConnectionManager
+org.apache.http.impl.conn.PoolingClientConnectionManager$1
+org.apache.http.impl.conn.ProxySelectorRoutePlanner
+org.apache.http.impl.conn.ProxySelectorRoutePlanner$1
+org.apache.http.impl.conn.SchemeRegistryFactory
+org.apache.http.impl.conn.SingleClientConnManager
+org.apache.http.impl.conn.SingleClientConnManager$1
+org.apache.http.impl.conn.SingleClientConnManager$ConnAdapter
+org.apache.http.impl.conn.SingleClientConnManager$PoolEntry
+org.apache.http.impl.conn.SystemDefaultDnsResolver
+org.apache.http.impl.conn.Wire
+org.apache.http.impl.conn.tsccm.AbstractConnPool
+org.apache.http.impl.conn.tsccm.BasicPoolEntry
+org.apache.http.impl.conn.tsccm.BasicPoolEntryRef
+org.apache.http.impl.conn.tsccm.BasicPooledConnAdapter
+org.apache.http.impl.conn.tsccm.ConnPoolByRoute
+org.apache.http.impl.conn.tsccm.ConnPoolByRoute$1
+org.apache.http.impl.conn.tsccm.PoolEntryRequest
+org.apache.http.impl.conn.tsccm.RouteSpecificPool
+org.apache.http.impl.conn.tsccm.RouteSpecificPool$1
+org.apache.http.impl.conn.tsccm.ThreadSafeClientConnManager
+org.apache.http.impl.conn.tsccm.ThreadSafeClientConnManager$1
+org.apache.http.impl.conn.tsccm.WaitingThread
+org.apache.http.impl.conn.tsccm.WaitingThreadAborter
+org.apache.http.impl.cookie.AbstractCookieAttributeHandler
+org.apache.http.impl.cookie.AbstractCookieSpec
+org.apache.http.impl.cookie.BasicClientCookie
+org.apache.http.impl.cookie.BasicClientCookie2
+org.apache.http.impl.cookie.BasicCommentHandler
+org.apache.http.impl.cookie.BasicDomainHandler
+org.apache.http.impl.cookie.BasicExpiresHandler
+org.apache.http.impl.cookie.BasicMaxAgeHandler
+org.apache.http.impl.cookie.BasicPathHandler
+org.apache.http.impl.cookie.BasicSecureHandler
+org.apache.http.impl.cookie.BestMatchSpec
+org.apache.http.impl.cookie.BestMatchSpecFactory
+org.apache.http.impl.cookie.BrowserCompatSpec
+org.apache.http.impl.cookie.BrowserCompatSpecFactory
+org.apache.http.impl.cookie.CookieSpecBase
+org.apache.http.impl.cookie.DateParseException
+org.apache.http.impl.cookie.DateUtils
+org.apache.http.impl.cookie.DateUtils$DateFormatHolder
+org.apache.http.impl.cookie.DateUtils$DateFormatHolder$1
+org.apache.http.impl.cookie.IgnoreSpec
+org.apache.http.impl.cookie.IgnoreSpecFactory
+org.apache.http.impl.cookie.NetscapeDomainHandler
+org.apache.http.impl.cookie.NetscapeDraftHeaderParser
+org.apache.http.impl.cookie.NetscapeDraftSpec
+org.apache.http.impl.cookie.NetscapeDraftSpecFactory
+org.apache.http.impl.cookie.PublicSuffixFilter
+org.apache.http.impl.cookie.PublicSuffixListParser
+org.apache.http.impl.cookie.RFC2109DomainHandler
+org.apache.http.impl.cookie.RFC2109Spec
+org.apache.http.impl.cookie.RFC2109SpecFactory
+org.apache.http.impl.cookie.RFC2109VersionHandler
+org.apache.http.impl.cookie.RFC2965CommentUrlAttributeHandler
+org.apache.http.impl.cookie.RFC2965DiscardAttributeHandler
+org.apache.http.impl.cookie.RFC2965DomainAttributeHandler
+org.apache.http.impl.cookie.RFC2965PortAttributeHandler
+org.apache.http.impl.cookie.RFC2965Spec
+org.apache.http.impl.cookie.RFC2965SpecFactory
+org.apache.http.impl.cookie.RFC2965VersionAttributeHandler
+org.apache.http.impl.entity.DisallowIdentityContentLengthStrategy
+org.apache.http.impl.entity.EntityDeserializer
+org.apache.http.impl.entity.EntitySerializer
+org.apache.http.impl.entity.LaxContentLengthStrategy
+org.apache.http.impl.entity.StrictContentLengthStrategy
+org.apache.http.impl.io.AbstractMessageParser
+org.apache.http.impl.io.AbstractMessageWriter
+org.apache.http.impl.io.AbstractSessionInputBuffer
+org.apache.http.impl.io.AbstractSessionOutputBuffer
+org.apache.http.impl.io.ChunkedInputStream
+org.apache.http.impl.io.ChunkedOutputStream
+org.apache.http.impl.io.ContentLengthInputStream
+org.apache.http.impl.io.ContentLengthOutputStream
+org.apache.http.impl.io.DefaultHttpRequestParser
+org.apache.http.impl.io.DefaultHttpResponseParser
+org.apache.http.impl.io.HttpRequestParser
+org.apache.http.impl.io.HttpRequestWriter
+org.apache.http.impl.io.HttpResponseParser
+org.apache.http.impl.io.HttpResponseWriter
+org.apache.http.impl.io.HttpTransportMetricsImpl
+org.apache.http.impl.io.IdentityInputStream
+org.apache.http.impl.io.IdentityOutputStream
+org.apache.http.impl.io.SocketInputBuffer
+org.apache.http.impl.io.SocketOutputBuffer
+org.apache.http.impl.pool.BasicConnFactory
+org.apache.http.impl.pool.BasicConnPool
+org.apache.http.impl.pool.BasicPoolEntry
+org.apache.http.io.BufferInfo
+org.apache.http.io.EofSensor
+org.apache.http.io.HttpMessageParser
+org.apache.http.io.HttpMessageWriter
+org.apache.http.io.HttpTransportMetrics
+org.apache.http.io.SessionInputBuffer
+org.apache.http.io.SessionOutputBuffer
+org.apache.http.message.AbstractHttpMessage
+org.apache.http.message.BasicHeader
+org.apache.http.message.BasicHeaderElement
+org.apache.http.message.BasicHeaderElementIterator
+org.apache.http.message.BasicHeaderIterator
+org.apache.http.message.BasicHeaderValueFormatter
+org.apache.http.message.BasicHeaderValueParser
+org.apache.http.message.BasicHttpEntityEnclosingRequest
+org.apache.http.message.BasicHttpRequest
+org.apache.http.message.BasicHttpResponse
+org.apache.http.message.BasicLineFormatter
+org.apache.http.message.BasicLineParser
+org.apache.http.message.BasicListHeaderIterator
+org.apache.http.message.BasicNameValuePair
+org.apache.http.message.BasicRequestLine
+org.apache.http.message.BasicStatusLine
+org.apache.http.message.BasicTokenIterator
+org.apache.http.message.BufferedHeader
+org.apache.http.message.HeaderGroup
+org.apache.http.message.HeaderValueFormatter
+org.apache.http.message.HeaderValueParser
+org.apache.http.message.LineFormatter
+org.apache.http.message.LineParser
+org.apache.http.message.ParserCursor
+org.apache.http.params.AbstractHttpParams
+org.apache.http.params.BasicHttpParams
+org.apache.http.params.CoreConnectionPNames
+org.apache.http.params.CoreProtocolPNames
+org.apache.http.params.DefaultedHttpParams
+org.apache.http.params.HttpAbstractParamBean
+org.apache.http.params.HttpConnectionParamBean
+org.apache.http.params.HttpConnectionParams
+org.apache.http.params.HttpParams
+org.apache.http.params.HttpParamsNames
+org.apache.http.params.HttpProtocolParamBean
+org.apache.http.params.HttpProtocolParams
+org.apache.http.params.SyncBasicHttpParams
+org.apache.http.pool.AbstractConnPool
+org.apache.http.pool.AbstractConnPool$1
+org.apache.http.pool.AbstractConnPool$2
+org.apache.http.pool.ConnFactory
+org.apache.http.pool.ConnPool
+org.apache.http.pool.ConnPoolControl
+org.apache.http.pool.PoolEntry
+org.apache.http.pool.PoolEntryFuture
+org.apache.http.pool.PoolStats
+org.apache.http.pool.RouteSpecificPool
+org.apache.http.protocol.BasicHttpContext
+org.apache.http.protocol.BasicHttpProcessor
+org.apache.http.protocol.DefaultedHttpContext
+org.apache.http.protocol.ExecutionContext
+org.apache.http.protocol.HTTP
+org.apache.http.protocol.HttpContext
+org.apache.http.protocol.HttpDateGenerator
+org.apache.http.protocol.HttpExpectationVerifier
+org.apache.http.protocol.HttpProcessor
+org.apache.http.protocol.HttpRequestExecutor
+org.apache.http.protocol.HttpRequestHandler
+org.apache.http.protocol.HttpRequestHandlerRegistry
+org.apache.http.protocol.HttpRequestHandlerResolver
+org.apache.http.protocol.HttpRequestInterceptorList
+org.apache.http.protocol.HttpResponseInterceptorList
+org.apache.http.protocol.HttpService
+org.apache.http.protocol.ImmutableHttpProcessor
+org.apache.http.protocol.RequestConnControl
+org.apache.http.protocol.RequestContent
+org.apache.http.protocol.RequestDate
+org.apache.http.protocol.RequestExpectContinue
+org.apache.http.protocol.RequestTargetHost
+org.apache.http.protocol.RequestUserAgent
+org.apache.http.protocol.ResponseConnControl
+org.apache.http.protocol.ResponseContent
+org.apache.http.protocol.ResponseDate
+org.apache.http.protocol.ResponseServer
+org.apache.http.protocol.SyncBasicHttpContext
+org.apache.http.protocol.UriPatternMatcher
+org.apache.http.util.ByteArrayBuffer
+org.apache.http.util.CharArrayBuffer
+org.apache.http.util.EncodingUtils
+org.apache.http.util.EntityUtils
+org.apache.http.util.ExceptionUtils
+org.apache.http.util.LangUtils
+org.apache.http.util.VersionInfo

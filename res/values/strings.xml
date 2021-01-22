@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Apps Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Search apps on Google Play</string>
+    <string name="search_label">Search</string>
+    <string name="search_global_description">Desco</string>
+    <string name="ui_tabname_free">Free Apps </string>
+    <string name="ui_tabname_paid">Free Apps </string>
+    <string name="expandListHeader"> Dangerous </string>
+    <string name="actionUpdateGmail"> Update account</string>
+    
+    
+    <string name="bottomLabel"> \t\t          Version 0.1 </string>
+    <string name="topLabel"> \n\n For your own safety, it is recommended to create a new gmail account and login with that account. (see app description for details) </string>
+
+<!-- \nThis app generates a master token with user\'s given email address, and password to download apps information from Google servers.
+ -->    
+	<string name="username"> Enter email address</string>
+    <string name="password"> Enter password </string>
+
+    <string-array name="planets_array">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+    
+    <string name="pref_send_report">Send crash reports</string>
+    <string name="pref_send_report_summary">Helps to fix bugs</string>
+    <string name="pref_sync_frequency">Sync frequency</string>
+    <string name="pref_sync_frequency_summary">Set the sync frequency</string>
+    <string name="pref_user_name">Set username</string>
+    <string name="pref_user_name_summary">Set your username</string>
+     
+    <string name="pref_user_profile">User Profile</string>
+    <string name="pref_update_setting">Update Settings</string>
+    
+    <string name="pref_content_filtering">Content Filtering</string>
+    <string name="pref_content_filtering_summ">Filter apps based on maturity</string>
+     
+    <string name="pref_search_result">Search Result</string>
+    <string name="pref_search_result_summ"> Choose the number of apps for the search result</string>
+
+
+    
+    <string-array name="contentFiltering">
+        <item name="everyOne">Everyone</item>
+        <item name="lowMaturity">Low maturity</item>
+        <item name="medMaturity">Medium maturity</item>
+        <item name="highMaturity">High maturity</item>
+        <item name="showAllApps">Show all apps</item>
+        
+    </string-array>
+    <string-array name="searchResult">
+        <item name="2">2</item>
+        <item name="5">5</item>
+        <item name="10">10</item>
+        <item name="20">20</item>
+        <item name="30">30</item>
+        <item name="40">40</item>
+        <item name="60">60</item>
+    </string-array>
+ <!--     <string-array name="default_searchResult">
+        <item name="10">10</item>
+     </string-array>
+       -->
+    <string name="pref_perm_selection">Choose Permissions</string>
+    <string name="pref_perm_selection_descr"> Choose the permissions you DON\'T want in an app</string>
+    
+    <string-array name="permission_selection">
+        <item name="1">INTERNET</item>
+        <item name="2">READ_SMS</item>
+        <item name="3">SEND_SMS</item>
+        <item name="4">CALL_PHONE</item>
+        <item name="5">RECORD_VIDEO</item>
+        <item name="6">CAMERA</item>
+        <item name="7">READ_CALENDAR</item>
+        <item name="8">READ_HISTORY_BOOKMARKS</item>
+        <item name="9">ACCESS_FINE_LOCATION</item>
+        <item name="10">ACCESS_COARSE_LOCATION</item>
+        <item name="11">READ_CALL_LOG</item>
+        <item name="12">READ_PHONE_STATE</item>
+        <item name="13">RECEIVE_SMS</item>
+        <item name="14">READ_SOCIAL_STREAM</item>
+        <item name="15">WRITE_EXTERNAL_STORAGE</item>
+    </string-array>
+    
+     <string-array name="default_permission_selection">
+        <item name="1">INTERNET</item>
+        </string-array>
+     
+    <string name="pref_delete_data_selection">Delete old data</string>
+    <string name="pref_delete_data_descr"> Choose the number of days after which you want old search data to be cleared from the device</string>
+    
+    <string-array name="delete_data_selection">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+        <item name="6">6</item>
+        <item name="7">7</item>
+    </string-array>
+    
+ <!--     <string-array name="default_delete_data_selection">
+        <item name="1">1</item>
+      </string-array> -->
+</resources>

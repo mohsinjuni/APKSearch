@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+ 
+<!--     <PreferenceCategory android:title="@string/pref_user_profile" >
+        <EditTextPreference
+                android:title="@string/pref_user_name"
+                android:summary="@string/pref_user_name_summary"
+                android:key="prefUsername"/>
+    </PreferenceCategory>
+     
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="prefSendReport"
+            android:summary="@string/pref_send_report_summary"
+            android:title="@string/pref_send_report" >
+        </CheckBoxPreference>
+ 
+        <ListPreference
+            android:key="prefContentFiltering"
+            android:entries="@array/contentFiltering"
+            android:summary="@string/pref_content_filtering_summ"
+            android:entryValues="@array/contentFiltering"
+            android:title="@string/pref_content_filtering" />
+-->
+      <PreferenceCategory android:title="@string/pref_update_setting" >
+        <ListPreference
+            android:key="prefSearchResult"
+            android:entries="@array/searchResult"
+            android:summary="@string/pref_search_result_summ"
+            android:entryValues="@array/searchResult"
+            android:persistent="true"
+            android:title="@string/pref_search_result"
+            android:defaultValue="10" />
+        
+<!--     </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_perm_selection" >
+ -->
+        <MultiSelectListPreference
+            android:key="prefPermSelection"
+            android:entries="@array/permission_selection"
+            android:summary="@string/pref_perm_selection_descr"
+            android:entryValues="@array/permission_selection"
+ 		    android:persistent="true"
+            android:title="@string/pref_perm_selection"
+            android:defaultValue="@array/default_permission_selection"/> 
+        
+<!--     </PreferenceCategory>      
+    <PreferenceCategory android:title="@string/pref_delete_data_selection" >      
+ -->        
+         <ListPreference
+            android:key="prefDeleteData"
+            android:entries="@array/delete_data_selection"
+            android:summary="@string/pref_delete_data_descr"
+            android:entryValues="@array/delete_data_selection"
+            android:persistent="true"
+            android:title="@string/pref_delete_data_selection"
+            android:defaultValue="1" />
+    </PreferenceCategory>      
+                  
+ 
+</PreferenceScreen>

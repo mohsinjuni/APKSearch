@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ACCESS_CHECKIN_PROPERTIES ">Allows read/write access to the "properties" table in the checkin database.</string>
+	<string name="ACCESS_COARSE_LOCATION">Allows an app to access approximate location derived from network location sources such as cell towers and Wi-Fi.</string>
+	<string name="ACCESS_FINE_LOCATION">Allows an app to access precise location from location sources such as GPS, cell towers, and Wi-Fi.</string>  
+	<string name="ACCESS_LOCATION_EXTRA_COMMANDS">Allows an application to access extra location provider commands</string>    
+	<string name="ACCESS_MOCK_LOCATION">Allows an application to create mock location providers for testing</string>
+	<string name="ACCESS_NETWORK_STATE">Allows applications to access information about networks</string>    
+	<string name="ACCESS_SURFACE_FLINGER">Allows an application to use SurfaceFlinger low level features.</string>
+	<string name="ACCESS_WIFI_STATE">Allows applications to access information about Wi-Fi networks</string>  
+	<string name="ACCOUNT_MANAGER">Allows applications to call into AccountAuthenticators.</string>  
+	<string name="ADD_VOICEMAIL">Allows an application to add voicemails into the system.</string> 
+</resources>

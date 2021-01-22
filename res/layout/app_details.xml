@@ -1,0 +1,89 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:orientation="vertical"
+    android:padding="3dip">
+    
+    <LinearLayout  
+	        android:orientation="vertical"
+	        android:layout_height="0dip"
+	        android:layout_weight="0.3"
+	        android:layout_width="fill_parent">
+        <TextView
+            android:id="@+id/AppTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+       
+            android:gravity="center_vertical"
+            android:text="App Title" />
+        	        
+      </LinearLayout>
+      <LinearLayout 
+            android:orientation="vertical"
+	        android:layout_height="0dip"
+	        android:layout_weight="0.7"
+	        android:layout_width="fill_parent">
+          
+		    <LinearLayout 
+		        android:layout_width="wrap_content"
+		        android:layout_height="fill_parent">
+		        >
+		 	<ImageView
+		        android:id="@+id/logo"
+		        
+		        android:layout_width="0dip"
+		        android:layout_weight="1"
+		        android:layout_height="fill_parent"
+		        android:layout_marginRight="2dip"
+		        
+		        android:src="@drawable/android_logo" />
+			</LinearLayout>
+		    <LinearLayout
+		        android:orientation="vertical"
+		    
+		        android:layout_width="0dip"
+		        android:layout_weight="1"
+		        android:layout_height="fill_parent">
+		
+		        <TextView
+		            android:id="@+id/label"
+		            android:layout_width="fill_parent"
+		            android:layout_height="0dip"
+		            android:layout_weight="0.35"
+		                    
+		            android:gravity="center_vertical"
+		            android:text="My Application" />
+		            
+		<!--          <TextView  
+		            android:id="@+id/developerName"
+		            android:layout_width="fill_parent"
+		            android:layout_height="0dip"
+		            android:layout_weight="0.3" 
+		            
+		            android:singleLine="true"
+		            android:ellipsize="marquee"
+		            android:text="Simple" />
+		-->
+				<RatingBar
+			        android:id="@+id/ratingBar"
+			        android:layout_width="wrap_content"
+			        android:layout_height="0dip"
+		            android:layout_weight="0.3" 
+		            style="?android:attr/ratingBarStyleSmall"
+			        android:numStars="0"
+			        android:stepSize="0.1"
+			        android:rating="0.0" />
+		 
+		        <TextView  
+		            android:id="@+id/permissionCount"
+		            android:layout_width="fill_parent"
+		            android:layout_height="0dip"
+		            android:layout_weight="0.35" 
+		            
+		            android:singleLine="true"
+		            android:ellipsize="marquee"
+		            android:text="Permissions" />
+		        
+		    </LinearLayout>
+	    </LinearLayout>
+</LinearLayout>

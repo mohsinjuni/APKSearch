@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+       android:id="@+id/options_menu_main_search"
+       android:actionViewClass="android.widget.SearchView"
+       android:icon="@drawable/ic_magnifier"
+       android:showAsAction="always"
+       android:title="Search"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+      <item
+        android:id="@+id/action_update_gmail_account"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/actionUpdateGmail"/>
+    
+</menu>
